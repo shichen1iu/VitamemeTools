@@ -1,0 +1,90 @@
+{
+  "data": {
+    "filterTokens": {
+      "count": 2,
+      "page": 0,
+      "results": [
+        {
+          "buyCount1": 0,
+          "buyCount4": 19,
+          "buyCount12": 127,
+          "buyCount24": 153,
+          "change1": "-0.06926373004075512",
+          "change4": "0.0515083935630427",
+          "change12": "0.22199862125806527",
+          "change24": "0.4025185882454692",
+          "createdAt": 1737541699,
+          "exchanges": [
+            {
+              "id": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8:1399811149",
+              "name": "Raydium"
+            },
+            {
+              "id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P:1399811149",
+              "name": "Pump"
+            }
+          ],
+          "high1": "0.0000194992174823",
+          "high4": "0.0000195783456981",
+          "high12": "0.0000249992243668",
+          "high24": "0.0000249992243668",
+          "holders": 480,
+          "isScam": null,
+          "lastTransaction": 1737811110,
+          "liquidity": "9089",
+          "marketCap": "18130",
+          "priceUSD": "0.0000181486289466",
+          "token": {
+            "address": "JDWYmyVmzU9Mnb8Vgve99xtEdY49JHE6u68e8JhQpump",
+            "name": "Happy Chinese New Year",
+            "symbol": "SNAKE2025"
+          },
+          "volume1": "348",
+          "volume4": "1281",
+          "volume12": "16238",
+          "volume24": "17540"
+        },
+        {
+          "buyCount1": 1,
+          "buyCount4": 6,
+          "buyCount12": 66,
+          "buyCount24": 71,
+          "change1": "0.018166479042401054",
+          "change4": "0.026202760573639544",
+          "change12": "0.6144363159338947",
+          "change24": "0.5576162396586946",
+          "createdAt": 1737451482,
+          "exchanges": [
+            {
+              "id": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8:1399811149",
+              "name": "Raydium"
+            },
+            {
+              "id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P:1399811149",
+              "name": "Pump"
+            }
+          ],
+          "high1": "0.0000469670424006",
+          "high4": "0.0000487752082154",
+          "high12": "0.0000501835975543",
+          "high24": "0.0000501835975543",
+          "holders": 177,
+          "isScam": null,
+          "lastTransaction": 1737807252,
+          "liquidity": "13949",
+          "marketCap": "46965",
+          "priceUSD": "0.0000469670424006",
+          "token": {
+            "address": "BCorsWYwvNCMspAnRHgPV54XdoAbH5BZ15QL9oL4pump",
+            "name": "Bananas Of Web3",
+            "symbol": "BANANAS"
+          },
+          "volume1": "49",
+          "volume4": "1033",
+          "volume12": "7810",
+          "volume24": "8513"
+        }
+      ]
+    }
+  }
+}

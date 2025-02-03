@@ -1,0 +1,2021 @@
+[
+  {
+    "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "decimals": 6,
+    "logoURI": "https://static.jup.ag/jup/icon.png",
+    "tags": [
+      "community",
+      "strict",
+      "verified",
+      "birdeye-trending"
+    ],
+    "daily_volume": 99841931.69856092,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-01-25T08:54:23Z",
+    "extensions": {
+      "coingeckoId": "jupiter-exchange-solana"
+    }
+  },
+  {
+    "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "name": "Wrapped BTC (Portal)",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png",
+    "tags": [
+      "birdeye-trending",
+      "strict",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 72006107.67903654,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "BCD75RNBHrJJpW4dXVagL5mPjzRLnVZq4YirJdjEYMV7",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "wrapped-btc-wormhole"
+    }
+  },
+  {
+    "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+    "name": "Ether (Portal)",
+    "symbol": "ETH",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "community",
+      "strict"
+    ],
+    "daily_volume": 62160759.64723834,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "BCD75RNBHrJJpW4dXVagL5mPjzRLnVZq4YirJdjEYMV7",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "ethereum-wormhole"
+    }
+  },
+  {
+    "address": "2eXamy7t3kvKhfV6aJ6Uwe3eh8cuREFcTKs1mFKZpump",
+    "name": "nuit",
+    "symbol": "nuit",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXVLXErjusKBA7ULADdKNFmkLtNxYb1KLmfwhUTaqGmS4",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 31001995.14203781,
+    "created_at": "2025-01-23T18:27:27.883517Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-23T18:27:17Z",
+    "extensions": {}
+  },
+  {
+    "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU",
+    "tags": [
+      "birdeye-trending",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 29747203.620661013,
+    "created_at": "2024-12-16T12:40:18.025413Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-29T23:13:41Z",
+    "extensions": {
+      "coingeckoId": "pudgy-penguins"
+    }
+  },
+  {
+    "address": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+    "name": "Unicorn Fart Dust",
+    "symbol": "UFD",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSPYBXsBnoDuUctoaW8DFLmURpJZULMFWH5EEbS2Y5LQS",
+    "tags": [
+      "community",
+      "verified",
+      "birdeye-trending"
+    ],
+    "daily_volume": 27812644.38639286,
+    "created_at": "2024-12-17T01:41:56.128723Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-17T01:41:55Z",
+    "extensions": {
+      "coingeckoId": "unicorn-fart-dust"
+    }
+  },
+  {
+    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "name": "Raydium",
+    "symbol": "RAY",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "strict",
+      "community"
+    ],
+    "daily_volume": 26474163.752152633,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "raydium"
+    }
+  },
+  {
+    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "decimals": 5,
+    "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "strict",
+      "community"
+    ],
+    "daily_volume": 24264693.710466173,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "bonk"
+    }
+  },
+  {
+    "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+    "name": "ai16z",
+    "symbol": "ai16z",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmcNTVAoyJ7zDbPnN9jwiMoB8uCoJBUP9RGmmiGGHv44yX",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "token-2022",
+      "community"
+    ],
+    "daily_volume": 23216045.17883558,
+    "created_at": "2024-10-25T17:17:16.105178Z",
+    "freeze_authority": null,
+    "mint_authority": "AZtt8LUScEAG74iKnPNRuYgQhwmGJhAf6yUkAXjAd8sp",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-25T01:44:39Z",
+    "extensions": {
+      "coingeckoId": "ai16z"
+    }
+  },
+  {
+    "address": "6HgJHzGpq3fSLmkepsaC8F3VtpUWfXcG4hmUaf4Vpump",
+    "name": "REGENT of the North Winds",
+    "symbol": "REGENT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmcuyx6zorvLEpK9U8K1SPutqoBdmQeL3uPr11fzjscjSn",
+    "tags": [
+      "verified",
+      "community",
+      "birdeye-trending"
+    ],
+    "daily_volume": 20987177.04441853,
+    "created_at": "2024-12-03T20:17:01.270441Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-03T20:16:57Z",
+    "extensions": {
+      "coingeckoId": "regent"
+    }
+  },
+  {
+    "address": "6fv7gDeWqyDNNg6fY3VGtnHJAMgbCD3JZfPibi6Wpump",
+    "name": "THE FROG",
+    "symbol": "PUNK",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTcEAn6Ty2AoBz4thfMWAWtDHrCKapTbSrxZ2Y6dSpYwz",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 11862338.73028354,
+    "created_at": "2025-01-24T18:39:25.931397Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump",
+    "name": "AGiXT",
+    "symbol": "AGiXT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWMk3J3A4uTRnMW71V6aXCMMGKVHNHqyED1SEW3XRUSxr",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 8804512.433521932,
+    "created_at": "2025-01-17T00:59:03.979333Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-17T00:59:02Z",
+    "extensions": {
+      "coingeckoId": "agixt"
+    }
+  },
+  {
+    "address": "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
+    "name": "360noscope420blazeit",
+    "symbol": "MLG",
+    "decimals": 6,
+    "logoURI": "https://bafkreigmu65j2qlirztvilmlte3r3lz67rokjyt6acwi33opcuzacdc73y.ipfs.nftstorage.link/",
+    "tags": [
+      "community",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 8362889.138266124,
+    "created_at": "2024-05-08T06:29:10.439802Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-04-20T23:00:14Z",
+    "extensions": {
+      "coingeckoId": "360noscope420blazeit"
+    }
+  },
+  {
+    "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+    "name": "Kamino",
+    "symbol": "KMNO",
+    "decimals": 6,
+    "logoURI": "https://cdn.kamino.finance/kamino.svg",
+    "tags": [
+      "birdeye-trending",
+      "strict",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 8175195.91537142,
+    "created_at": "2024-04-29T14:02:28.577602Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-04-04T20:35:40Z",
+    "extensions": {
+      "coingeckoId": "kamino"
+    }
+  },
+  {
+    "address": "tWKHzXd5PRmxTF5cMfJkm2Ua3TcjwNNoSRUqx6Apump",
+    "name": "AGI ALPHA AGENT",
+    "symbol": "AGIALPHA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSSCChTWyzz6jaixftwcj64UHV8cCrh5Lu2ot97x1yx2b",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 7048435.88993817,
+    "created_at": "2025-01-24T19:37:10.409533Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "3MyaQBG7y3SHLQZa282Jh2xtB2TZKHGzNp1CuZ4Cpump",
+    "name": "QudeAI Framework",
+    "symbol": "Qude",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVVskYLQuvqxdRFa16CA4LD5tUiDdgEaWBH9LknQnW4HF",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 6809311.746819187,
+    "created_at": "2025-01-18T00:18:10.249305Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-18T00:18:06Z",
+    "extensions": {}
+  },
+  {
+    "address": "9dzSzFvPsKDoY2gdWErsuz2H1o4tbzvgBhrNZ9cvkD2j",
+    "name": "SmarDex Token (Wormhole)",
+    "symbol": "SDEX",
+    "decimals": 8,
+    "logoURI": null,
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 6719239.589247315,
+    "created_at": "2024-05-24T12:58:44.759619Z",
+    "freeze_authority": null,
+    "mint_authority": "BCD75RNBHrJJpW4dXVagL5mPjzRLnVZq4YirJdjEYMV7",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-12T12:48:21Z",
+    "extensions": {
+      "coingeckoId": "smardex"
+    }
+  },
+  {
+    "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+    "name": "GIGACHAD",
+    "symbol": "GIGA",
+    "decimals": 5,
+    "logoURI": "https://bafybeifiyvpbr3kd6wepax4qxdlxbjrpz2de4lqsuwwuihirvaal6kqwba.ipfs.nftstorage.link",
+    "tags": [
+      "community",
+      "birdeye-trending",
+      "strict",
+      "verified"
+    ],
+    "daily_volume": 5924487.654447484,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-01-04T21:14:48Z",
+    "extensions": {
+      "coingeckoId": "gigachad-2"
+    }
+  },
+  {
+    "address": "GPrg1CgbBvAJS2SCuf9gF7NmQYsWudfyfWy5SUzypump",
+    "name": "Edwin",
+    "symbol": "EDWIN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdWNeqUR8wYgR1UgSsVHBHwxSFKHk1Aj6PNoeH5zfVcZT",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 5151838.641528444,
+    "created_at": "2025-01-24T15:53:27.834919Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "ECY31gWwxy4s2VnMkYhmqDkrV75KrwR2yTtsnrnSpump",
+    "name": "Official Barron Meme",
+    "symbol": "BARRON",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcufMnTwyAbFAjFhafDMp8f46ZQG3nEy3ic3XxP8xpNb1",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 5151326.089613483,
+    "created_at": "2025-01-20T01:15:14.074855Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-20T01:15:13Z",
+    "extensions": {}
+  },
+  {
+    "address": "CboMcTUYUcy9E6B3yGdFn6aEsGUnYV6yWeoeukw6pump",
+    "name": "Butthole Coin",
+    "symbol": "Butthole",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qme1teMr1bYqEFJaaJXyYpzDG73Npw6fkLuH7fgT8xgFoQ",
+    "tags": [
+      "verified",
+      "community",
+      "birdeye-trending"
+    ],
+    "daily_volume": 5054712.693038065,
+    "created_at": "2024-12-28T00:09:09.813284Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-28T00:09:07Z",
+    "extensions": {
+      "coingeckoId": "butthole-coin"
+    }
+  },
+  {
+    "address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+    "name": "cat in a dogs world",
+    "symbol": "MEW",
+    "decimals": 5,
+    "logoURI": "https://bafkreidlwyr565dxtao2ipsze6bmzpszqzybz7sqi2zaet5fs7k53henju.ipfs.nftstorage.link/",
+    "tags": [
+      "strict",
+      "verified",
+      "community",
+      "birdeye-trending"
+    ],
+    "daily_volume": 3520457.4488439616,
+    "created_at": "2024-04-26T10:57:45.759228Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-03-26T05:15:39Z",
+    "extensions": {
+      "coingeckoId": "cat-in-a-dogs-world"
+    }
+  },
+  {
+    "address": "9bwYaX2AT5srmj93QFaw7Uhm4knc1S2LtWvX7rVipump",
+    "name": "BIGGEST TWITTER SPACE",
+    "symbol": "SPACES",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWeG3X61aS2V39zKErXumFb4GUMSfe7NuhqYMPs696UpQ",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 3285016.152020546,
+    "created_at": "2025-01-24T05:53:00.902804Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-24T05:52:59Z",
+    "extensions": {}
+  },
+  {
+    "address": "FnqXjNmCPEBNMTnveAvwuRsCdtKz7qnjJjGB1EwNpump",
+    "name": "MESH LABS",
+    "symbol": "MESH",
+    "decimals": 6,
+    "logoURI": null,
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 3132580.0435548197,
+    "created_at": "2025-01-24T21:54:37.348700Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+    "name": "JITO",
+    "symbol": "JTO",
+    "decimals": 9,
+    "logoURI": "https://metadata.jito.network/token/jto/image",
+    "tags": [
+      "verified",
+      "strict",
+      "community",
+      "birdeye-trending"
+    ],
+    "daily_volume": 3077532.0449981657,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2023-11-27T20:41:24Z",
+    "extensions": {
+      "coingeckoId": "jito-governance-token"
+    }
+  },
+  {
+    "address": "864YJRb3JAVARC4FNuDtPKFxdEsYRbB39Nwxkzudxy46",
+    "name": "HABIBI",
+    "symbol": "HABIBI",
+    "decimals": 6,
+    "logoURI": "https://bafybeidxe4hbr3vn7cy7m3tcvxvrmzzc4cl6dcbmkqdb4yg7wgxli4iwyi.ipfs.nftstorage.link",
+    "tags": [
+      "community",
+      "verified",
+      "strict",
+      "birdeye-trending"
+    ],
+    "daily_volume": 3062243.9959515086,
+    "created_at": "2024-04-26T11:00:58.037531Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-03-30T16:02:03Z",
+    "extensions": {
+      "coingeckoId": "habibi-sol"
+    }
+  },
+  {
+    "address": "zGh48JtNHVBb5evgoZLXwgPD2Qu4MhkWdJLGDAupump",
+    "name": "The Last Play",
+    "symbol": "retire",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYG14Rrj2STV4ww9jKWierD2QVndSvDLEFkEyufBAxNC2",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 2856501.036213685,
+    "created_at": "2024-10-13T23:53:58.858375Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-10-13T23:53:56Z",
+    "extensions": {
+      "coingeckoId": "the-last-play"
+    }
+  },
+  {
+    "address": "HsNx7RirehVMy54xnFtcgCBPDMrwNnJKykageqdWpump",
+    "name": "Daige",
+    "symbol": "daige",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUvmd2DF7e66BFhrvbbhf2Ad6kdYYxtMsDBFq2b9PBJFs",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 2448381.2054956895,
+    "created_at": "2024-12-18T18:07:42.889122Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-18T18:07:41Z",
+    "extensions": {
+      "coingeckoId": "daige"
+    }
+  },
+  {
+    "address": "GMzuntWYJLpNuCizrSR7ZXggiMdDzTNiEmSNHHunpump",
+    "name": "Daydreams",
+    "symbol": "dreams",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPfRkbzpiBtH34ooJLPKGHsUtc6kswBy1owqbF5Hmn6uf",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 2300627.799829123,
+    "created_at": "2025-01-19T14:23:44.702465Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-19T14:23:37Z",
+    "extensions": {
+      "coingeckoId": "daydreams"
+    }
+  },
+  {
+    "address": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+    "name": "GST",
+    "symbol": "GST",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB/logo.png",
+    "tags": [
+      "strict",
+      "verified",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 2260523.070468662,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "green-satoshi-token"
+    }
+  },
+  {
+    "address": "14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX",
+    "name": "aixbt by Virtuals (Wormhole)",
+    "symbol": "AIXBT",
+    "decimals": 8,
+    "logoURI": null,
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 2259877.131102846,
+    "created_at": "2024-11-18T04:34:49.299075Z",
+    "freeze_authority": null,
+    "mint_authority": "BCD75RNBHrJJpW4dXVagL5mPjzRLnVZq4YirJdjEYMV7",
+    "permanent_delegate": null,
+    "minted_at": "2024-11-17T18:37:17Z",
+    "extensions": {
+      "coingeckoId": "aixbt"
+    }
+  },
+  {
+    "address": "6HP3PZ5DkCy6kEjS8CKPfeMCXgoxyTcdvEakzFyzpump",
+    "name": "Kendo Ai",
+    "symbol": "realkendo",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQKp3yAF2JWtj6iwonjWEeW1K99VETvAMoKAQyjL3YCai",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 2206514.060113193,
+    "created_at": "2025-01-23T00:18:40.797101Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-23T00:18:40Z",
+    "extensions": {}
+  },
+  {
+    "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+    "name": "RETARDIO",
+    "symbol": "RETARDIO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.filebase.io/ipfs/QmTWd41E9u7f6aUjUnucP4S88TCZLJ9sJRM1Kj5EAKfivt",
+    "tags": [
+      "birdeye-trending",
+      "community",
+      "strict",
+      "verified"
+    ],
+    "daily_volume": 2185745.925305929,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-02-01T21:54:39Z",
+    "extensions": {
+      "coingeckoId": "retardio"
+    }
+  },
+  {
+    "address": "vsDLJBTQZTFcnvrosoA49Czqy9qZGu4tgjh768wpump",
+    "name": "Built Different",
+    "symbol": "BUILT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQqp1ePhp4q8wfzow2SqpMwyUz7DugVF17tkvaLiEfVrW",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 2168186.540355697,
+    "created_at": "2025-01-21T17:11:48.116616Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-21T17:03:50Z",
+    "extensions": {}
+  },
+  {
+    "address": "8YiB8B43EwDeSx5Jp91VQjgBU4mfCgVvyNahadtzpump",
+    "name": "Dotcom",
+    "symbol": "Y2K",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXoA77L2u1NrWzEoZcVp6p81fz6KserSU2xnZsNfpXqum",
+    "tags": [
+      "community",
+      "verified",
+      "birdeye-trending"
+    ],
+    "daily_volume": 2108242.145869704,
+    "created_at": "2024-10-30T19:29:37.060763Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-10-30T19:29:33Z",
+    "extensions": {
+      "coingeckoId": "dotcom"
+    }
+  },
+  {
+    "address": "BLDiYcvm3CLcgZ7XUBPgz6idSAkNmWY6MBbm8Xpjpump",
+    "name": "TRI SIGMA",
+    "symbol": "TRISIG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdQYc4SK1GKTWRD8bfxg8eVehhpU3EXfVYaezQRRhSBUw",
+    "tags": [
+      "community",
+      "verified",
+      "birdeye-trending"
+    ],
+    "daily_volume": 2088434.957562237,
+    "created_at": "2024-11-20T19:57:05.294098Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-20T19:57:03Z",
+    "extensions": {
+      "coingeckoId": "tri-sigma"
+    }
+  },
+  {
+    "address": "CWX6t6pGJ1zsnuywnyd2ZMZJ7inB2sWuPdsteoT6pump",
+    "name": "Elon Trump Fart",
+    "symbol": "ETF500",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTLUGQ8qksk67Hn56sSzkfzHBPX7NMyZjr9CoiPk2FqG2",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 2087264.538676923,
+    "created_at": "2025-01-05T12:17:01.816307Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-05T12:16:58Z",
+    "extensions": {
+      "coingeckoId": "elon-trump-fart"
+    }
+  },
+  {
+    "address": "HMx1sy5XQ4GmnLYCJ21Ldnv1A3boGRFHgKzLm52ypump",
+    "name": "TraderSZ",
+    "symbol": "Trader1sz",
+    "decimals": 6,
+    "logoURI": null,
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 2052117.609672488,
+    "created_at": "2025-01-24T21:28:40.317932Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "FVdo7CDJarhYoH6McyTFqx71EtzCPViinvdd1v86Qmy5",
+    "name": "Aimonica Brands",
+    "symbol": "Aimonica",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTvwixgEpjVRbJHtXdScjxRjKtV8PiRDbaDNDokk27TZq",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 2034931.3163316147,
+    "created_at": "2024-11-27T10:23:15.083268Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-27T10:23:13Z",
+    "extensions": {
+      "coingeckoId": "aimonica-brands"
+    }
+  },
+  {
+    "address": "FzAwkijFzSga76USEpo3126GyTRmxcMDbA9TYD2PPBt5",
+    "name": "N64",
+    "symbol": "N64",
+    "decimals": 9,
+    "logoURI": "https://bafkreigmbxkeln2tuwqkmhbetof4lwzfkwrvzee7kqyo45qa55i6pnxnri.ipfs.nftstorage.link",
+    "tags": [
+      "birdeye-trending",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 1887038.2457152328,
+    "created_at": "2024-08-06T02:02:03.794423Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-04-14T23:56:53Z",
+    "extensions": {}
+  },
+  {
+    "address": "CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W",
+    "name": "Cristiano Ronaldo",
+    "symbol": "CR7",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUkDzch1AnSrkph7P6wLFeMBi9N2fjUDYJyje4Z39RuwW",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 1838302.651765667,
+    "created_at": "2025-01-24T21:13:10.681417Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "2jZChcoRaYfWVXjEefJRDcpoRGtSdNZw8i2TtkhSpump",
+    "name": "DEXAI",
+    "symbol": "DEXAI",
+    "decimals": 6,
+    "logoURI": null,
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 1743982.0902130655,
+    "created_at": "2025-01-23T21:38:45.370358Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-23T21:38:03Z",
+    "extensions": {
+      "coingeckoId": "dexai"
+    }
+  },
+  {
+    "address": "A5rpfBW96Ccv2edPBs8iinCK85EANXcES9SDxjojpump",
+    "name": "OFFICIAL DOGE CAUCUS",
+    "symbol": "DOGECAUCUS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmR68WCTWCwg98bwbJppcxZJ1wS2WsJyruBFz4EqG4Joqb",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 1612566.9820703128,
+    "created_at": "2025-01-20T07:38:04.783641Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-20T07:38:02Z",
+    "extensions": {}
+  },
+  {
+    "address": "H1NPJkh3KUJGbpjkyQD5qG1nrpFW7tHiqek5SAbMpump",
+    "name": "Schizo Terminal",
+    "symbol": "SCHIZO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmc6iz9qibtUEATVuAr3LRbkF7iyzCVPrEvXGAAzzooWrc",
+    "tags": [
+      "birdeye-trending",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 1530179.5273571815,
+    "created_at": "2024-11-28T16:01:09.006478Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-28T16:01:06Z",
+    "extensions": {
+      "coingeckoId": "schizo-terminal"
+    }
+  },
+  {
+    "address": "7AkSKHomPcrJHSgnKFmbrqKARR7PyDk9XoE1PHrtpump",
+    "name": "RELIGN",
+    "symbol": "RELIGN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZForq3iTkDNKaiAN2Anh1cmeZKvjuKsERfewdWNHXscE",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 1392792.607061085,
+    "created_at": "2025-01-22T20:04:25.060576Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-22T20:03:49Z",
+    "extensions": {}
+  },
+  {
+    "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+    "name": "Magic Eden",
+    "symbol": "ME",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/hhifTzaEDnPKnYNi4aAhkZTUkNLoK6d3nMiQPAjByn4",
+    "tags": [
+      "birdeye-trending",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 1360849.0339721064,
+    "created_at": "2024-12-04T14:14:21.378341Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-20T13:37:25Z",
+    "extensions": {
+      "coingeckoId": "magic-eden"
+    }
+  },
+  {
+    "address": "B5UsiUYcTD3PcQa8r2uXcVgRmDL8jUYuXPiYjrY7pump",
+    "name": "Sola AI",
+    "symbol": "SOLA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfP4YRBNRXLeW77khp7jjr5nkNNo8XrnBebGgjgkiZbS8",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 1328986.232473789,
+    "created_at": "2025-01-08T19:01:31.662878Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-08T19:01:28Z",
+    "extensions": {
+      "coingeckoId": "sola-ai"
+    }
+  },
+  {
+    "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+    "name": "Cloud",
+    "symbol": "CLOUD",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/N7vCgQdgQ-fab28zEB4m8QRLMwI91_KcXI-Gtr151gg",
+    "tags": [
+      "strict",
+      "community",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 1272264.900203151,
+    "created_at": "2024-07-15T07:35:03.933998Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-07-13T15:09:35Z",
+    "extensions": {
+      "coingeckoId": "sanctum-2"
+    }
+  },
+  {
+    "address": "8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8",
+    "name": "Tetsuo Coin",
+    "symbol": "TETSUO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVLxzvFArbYSqUCvWBG6ur3yxmWzVxzu3k9NP6WFFNr56",
+    "tags": [
+      "community",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 1266542.6669290068,
+    "created_at": "2024-12-02T04:15:12.927999Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-02T04:15:10Z",
+    "extensions": {
+      "coingeckoId": "tetsuo-coin"
+    }
+  },
+  {
+    "address": "ESySNf2ByiT8H8WpdG3Pq7euPLSjMnD3gkAk5sGbpump",
+    "name": "SUPER TRUMP",
+    "symbol": "STRUMP",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmd7k1pKRBWjjYGPBh3xxRbvcka2MZQ4tYJtwi9m2J5sa2",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 1255097.1008505372,
+    "created_at": "2025-01-24T19:45:06.693131Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "3QGGLYLu251jE9Ra8jkGtuHb773xYciXeqqvUgNTGimE",
+    "name": "████████",
+    "symbol": "███",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/Qmb7ivcYv8gS83kysdRqecjDDjmzohFVfvWwfApC1wNptC",
+    "tags": [
+      "token-2022",
+      "birdeye-trending",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 1219840.6008037317,
+    "created_at": "2025-01-01T02:21:16.629469Z",
+    "freeze_authority": null,
+    "mint_authority": "DhaKPFuSDUa9g9snB7cP4jJdS7KvvzaNzFCmnQyUgXDd",
+    "permanent_delegate": null,
+    "minted_at": "2025-01-01T01:14:37Z",
+    "extensions": {
+      "coingeckoId": "redacted-terminal"
+    }
+  },
+  {
+    "address": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+    "name": "PYTHIA",
+    "symbol": "PYTHIA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTXDtsVTaSTFpsAGVUmjFqSzbgo44YesssfmDxs2xTyQs",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 1204731.8592928771,
+    "created_at": "2024-12-26T14:00:32.010677Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-26T14:00:25Z",
+    "extensions": {
+      "coingeckoId": "pythia"
+    }
+  },
+  {
+    "address": "8SpPaFLycx897D6sowPZkEkcNdDahzRZb5itr6D8pump",
+    "name": "Lea AI",
+    "symbol": "LEA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNLnVKjL5McWZRvMTZbw1JHNcAimLaSRrR7kjwTYYurC7",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 1154559.0562250204,
+    "created_at": "2024-11-22T00:00:02.950243Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-21T23:59:59Z",
+    "extensions": {
+      "coingeckoId": "lea-ai"
+    }
+  },
+  {
+    "address": "Dy7M5B3Z5GnyhyHKkcHRFpYxw6eyiF1gqsDTBiT4t4oQ",
+    "name": "Made In America",
+    "symbol": "$MIA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmV4y8uZwUAJiuVRAWniarpnjSkubza12uq3N8WcxD2zgJ",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 1151264.6543287532,
+    "created_at": "2025-01-20T17:19:27.173908Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-20T17:19:25Z",
+    "extensions": {}
+  },
+  {
+    "address": "b1nkm6skdrwXoMku8CVx8Fk4LfC2jAqxV3m9VDNjYqz",
+    "name": "blinkdotfun",
+    "symbol": "BLINK",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmdD77NMuUJ1qor37eUp3CXwLfoPQTGb9pMpfsBjgrVgwt",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 1122103.5578074865,
+    "created_at": "2024-06-26T18:19:52.293409Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-06-26T04:32:42Z",
+    "extensions": {
+      "coingeckoId": "blinkdotfun"
+    }
+  },
+  {
+    "address": "4TwC4AiF1uUSHES2eBftGqemp6TqjEnKghqiH6dFpump",
+    "name": "She Rises",
+    "symbol": "AKA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTvURDWtXpXYy3zD2332pEQiEh232Lu1xBg1YLbtxDQm8",
+    "tags": [
+      "community",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 1068738.8886151882,
+    "created_at": "2024-12-19T20:00:29.698058Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-19T20:00:26Z",
+    "extensions": {
+      "coingeckoId": "she-rises"
+    }
+  },
+  {
+    "address": "4mbdysBik3jmzD7mt6FGPDsMxnYcxExSQRFjPucdpump",
+    "name": "tsotchke",
+    "symbol": "TSOTCHKE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSxAF19uZZPF85fqDi5oVb2d7n5LCCKNRxpBNFXaangow",
+    "tags": [
+      "community",
+      "verified",
+      "birdeye-trending"
+    ],
+    "daily_volume": 988406.912590614,
+    "created_at": "2024-12-04T04:27:43.700096Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-04T04:27:42Z",
+    "extensions": {
+      "coingeckoId": "tsotchke"
+    }
+  },
+  {
+    "address": "39qibQxVzemuZTEvjSB7NePhw9WyyHdQCqP8xmBMpump",
+    "name": "Memes AI",
+    "symbol": "MemesAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUbDNeYK1Rea6ZUzozzijvXtDJMHJnkL5f5rmpSathHBx",
+    "tags": [
+      "birdeye-trending",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 980972.5743655748,
+    "created_at": "2024-10-13T22:03:41.818933Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-10-13T22:03:40Z",
+    "extensions": {
+      "coingeckoId": "memes-ai"
+    }
+  },
+  {
+    "address": "2zEgJriivukRSTsmCpGGjn3Kf8SykUixf3M7ct3Hpump",
+    "name": "quarm",
+    "symbol": "quarm",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeM5tm2h9xgLogZGZQNUvrDDqWZooiGZymdVsiZ93p2ik",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 907164.8193135842,
+    "created_at": "2025-01-17T03:13:15.507091Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-17T03:13:12Z",
+    "extensions": {}
+  },
+  {
+    "address": "GeneXe8vpWSMjTJs3VUW1SNM2yaDuAqGuQGjnTfYipF6",
+    "name": "Genesis Program",
+    "symbol": "GENEX",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmaAhVeQRnvad4iFuSkoJ4JW8mNF3qRxGmAJaUhYLvrFGs",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 900813.3002297456,
+    "created_at": "2025-01-24T08:07:19.016671Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-24T08:07:17Z",
+    "extensions": {}
+  },
+  {
+    "address": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
+    "name": "ZEUS",
+    "symbol": "ZEUS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/logo-v2.png",
+    "tags": [
+      "verified",
+      "strict",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 845639.4835193546,
+    "created_at": "2024-04-26T10:57:45.759228Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-03-31T10:42:34Z",
+    "extensions": {
+      "coingeckoId": "zeus-network"
+    }
+  },
+  {
+    "address": "CckLtcfEtsYzg8sUrVBBrFKt16iExpvEurc1dhKmmoon",
+    "name": "TrustInWeb3",
+    "symbol": "T3AI",
+    "decimals": 9,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/SyMH8DuwqqkSY890",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "community",
+      "moonshot"
+    ],
+    "daily_volume": 843869.069717402,
+    "created_at": "2024-12-30T20:54:51.960985Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-30T20:54:47Z",
+    "extensions": {}
+  },
+  {
+    "address": "5LtT2F9oKmmDSYHXqejN9fYDJUTaf19QrYZgGhPxpump",
+    "name": "Generational Bottom",
+    "symbol": "BOTTOM",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQ4MWKshvKWPNUgSy7kM3WAkgxJjVYgjfmuJdEazU79th",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 782817.5870487421,
+    "created_at": "2025-01-24T21:10:50.588382Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "rizo34MUwbCBqpSTSfnEktdWB4CTByqqYh8zBxL3WAR",
+    "name": "HahaYes",
+    "symbol": "RIZO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUYypyxDmn5qBXY6BMACVpFddh7gFj5JdDa4VPbHTF1DA?filename=riz0.jpg",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 762220.7822103492,
+    "created_at": "2024-08-01T00:32:38.033633Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-08-01T00:19:59Z",
+    "extensions": {
+      "coingeckoId": "hahayes"
+    }
+  },
+  {
+    "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
+    "name": "Shadow Token",
+    "symbol": "SHDW",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/FDcC9gn12fFkSU2KuQYH4TUjihrZxiTodFRWNF4ns9Kt/250x250_with_padding.png",
+    "tags": [
+      "strict",
+      "community",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 731871.1106293973,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "genesysgo-shadow"
+    }
+  },
+  {
+    "address": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",
+    "name": "TARS AI",
+    "symbol": "TAI",
+    "decimals": 9,
+    "logoURI": "https://coffee-important-lizard-419.mypinata.cloud/ipfs/Qmf19J2Teszt5ZgqrzQFuWk64xvQzfZFfEEn8ntzpbz36W",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 710089.2282708007,
+    "created_at": "2024-05-02T10:22:09.428097Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-04-14T15:02:35Z",
+    "extensions": {
+      "coingeckoId": "tars-protocol"
+    }
+  },
+  {
+    "address": "7xUV6YR3rZMfExPqZiovQSUxpnHxr2KJJqFg1bFrpump",
+    "name": "dante",
+    "symbol": "dGPU",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRYj1Gb5AGt9ACujUgy1JVWJvZdCpBYX12ArEYedFV1ji",
+    "tags": [
+      "verified",
+      "community",
+      "birdeye-trending"
+    ],
+    "daily_volume": 709334.8472070104,
+    "created_at": "2024-12-15T20:10:22.809751Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-15T20:10:21Z",
+    "extensions": {}
+  },
+  {
+    "address": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg",
+    "name": "Rizzmas",
+    "symbol": "Rizzmas",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/4KejFFTPvFjxc0NkqOCADL7BVZ9xzgh2FNPunMadZrQ",
+    "tags": [
+      "community",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 699501.5721458157,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2023-12-24T17:47:35Z",
+    "extensions": {
+      "coingeckoId": "rizzmas"
+    }
+  },
+  {
+    "address": "EBGaJP7srpUUN8eRdta1MsojrNtweuHYsdP3P1TRpump",
+    "name": "Realis Worlds",
+    "symbol": "REALIS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdzQTQ3cC5jS8xCh1ttXDLzeNHjzqnBB24ojADVb7mn9q",
+    "tags": [
+      "birdeye-trending",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 681643.0716742413,
+    "created_at": "2024-12-04T21:05:17.894424Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-04T21:05:16Z",
+    "extensions": {
+      "coingeckoId": "realis-worlds"
+    }
+  },
+  {
+    "address": "2NUEQdSpFFGhssmT9LFUn67gAucyajmgscT7zsizpump",
+    "name": "Shift AI",
+    "symbol": "Shift",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSsZZqxmS4g67ucPkgVy5oub3Vh62gcFrAsGh1dY6rtPz",
+    "tags": [
+      "community",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 624019.9638598105,
+    "created_at": "2025-01-07T20:27:17.839815Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-07T20:27:16Z",
+    "extensions": {
+      "coingeckoId": "shift-ai"
+    }
+  },
+  {
+    "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+    "name": "GMT",
+    "symbol": "GMT",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
+    "tags": [
+      "birdeye-trending",
+      "strict",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 620001.2049844759,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "stepn"
+    }
+  },
+  {
+    "address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
+    "name": "Nosana",
+    "symbol": "NOS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7/logo.png",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "community",
+      "strict"
+    ],
+    "daily_volume": 605984.9541166566,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "nosana"
+    }
+  },
+  {
+    "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+    "name": "Wen",
+    "symbol": "WEN",
+    "decimals": 5,
+    "logoURI": "https://shdw-drive.genesysgo.net/GwJapVHVvfM4Mw4sWszkzywncUWuxxPd6s9VuFfXRgie/wen_logo.png",
+    "tags": [
+      "strict",
+      "community",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 573233.2194453849,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-01-23T05:29:40Z",
+    "extensions": {
+      "coingeckoId": "wen-4"
+    }
+  },
+  {
+    "address": "4dqYzXnTfNrbwMdJ6uum2FbPC1LkmHtSAbXmh2pfpump",
+    "name": "QUAIN",
+    "symbol": "QUAIN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYoEq5AAWHPsge8C9dMuLxspyjjQtJGXXWm7mHnpRtQ2n",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 568794.9840419282,
+    "created_at": "2024-12-30T18:21:58.081732Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-30T18:21:53Z",
+    "extensions": {
+      "coingeckoId": "quain"
+    }
+  },
+  {
+    "address": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
+    "name": "Mumu the Bull",
+    "symbol": "MUMU",
+    "decimals": 6,
+    "logoURI": "https://bafkreihszutctvdmdlyjtzfmj7rgvdorpc7jchj2td3feypc7veidbkpsu.ipfs.nftstorage.link",
+    "tags": [
+      "verified",
+      "community",
+      "birdeye-trending",
+      "strict"
+    ],
+    "daily_volume": 568316.6796011633,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-03-10T23:26:19Z",
+    "extensions": {
+      "coingeckoId": "mumu-the-bull-3"
+    }
+  },
+  {
+    "address": "HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1",
+    "name": "MAGA (Wormhole)",
+    "symbol": "TRUMP",
+    "decimals": 8,
+    "logoURI": "https://magamemecoin.com/wp-content/uploads/cropped-MAGA-Memecoin-Favicon.png",
+    "tags": [
+      "community",
+      "birdeye-trending",
+      "strict",
+      "verified"
+    ],
+    "daily_volume": 566391.6916781291,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "BCD75RNBHrJJpW4dXVagL5mPjzRLnVZq4YirJdjEYMV7",
+    "permanent_delegate": null,
+    "minted_at": "2023-12-22T05:55:29Z",
+    "extensions": {
+      "coingeckoId": "bridged-maga-wormhole"
+    }
+  },
+  {
+    "address": "CnGb7hJsGdsFyQP2uXNWrUgT5K1tovBA3mNnUZcTpump",
+    "name": "FLORK",
+    "symbol": "flork",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQEG2WXCkCP8gJ1BaydZi1ZNK58LMEyUnAGYiEr6ijea5",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 507698.18064349104,
+    "created_at": "2024-12-22T20:00:02.444041Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-22T19:59:50Z",
+    "extensions": {
+      "coingeckoId": "flork-cto"
+    }
+  },
+  {
+    "address": "Cpzvdx6pppc9TNArsGsqgShCsKC9NCCjA2gtzHvUpump",
+    "name": "opensvm.com",
+    "symbol": "SVMAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRotkcKStyRt8qZ2MPsWo5qcCwinwV5xuEn7o6mBjDKAk",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 442835.32352341345,
+    "created_at": "2024-12-26T10:44:55.291244Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-26T10:44:54Z",
+    "extensions": {}
+  },
+  {
+    "address": "CMXr9HyT5oCy8e7yoRW7yC9heWx2PooRN4VViBo2pump",
+    "name": "SENATOR CYNTHIA LUMMIS",
+    "symbol": "LUMMIS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeYyYCfN7WbW378boytR2FR91s5xa7WXTYmPcULmr3EVa",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 416104.9150440111,
+    "created_at": "2025-01-23T14:48:22.766423Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-23T14:48:07Z",
+    "extensions": {}
+  },
+  {
+    "address": "CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump",
+    "name": "Official Mascot of the Holy Year",
+    "symbol": "LUCE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfVR3qRiUJVe6vydvfEjfMj5o1CJ8cbisp8gC2yonzNst",
+    "tags": [
+      "verified",
+      "community",
+      "birdeye-trending"
+    ],
+    "daily_volume": 409613.1608984394,
+    "created_at": "2024-10-28T16:13:14.476217Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-10-28T16:13:09Z",
+    "extensions": {
+      "coingeckoId": "offcial-mascot-of-the-holy-year"
+    }
+  },
+  {
+    "address": "7KuFdcfzbc3LLoRHNRWfW1dhbPNzuCv41hyYbfSUpump",
+    "name": "Trump Derangement Syndrome",
+    "symbol": "TDS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTVY8PQNKtjjyJKYiJ2o5nXtpbdy8kBqpUxAxv2Kzjyms",
+    "tags": [
+      "verified",
+      "birdeye-trending",
+      "community"
+    ],
+    "daily_volume": 400696.14194453816,
+    "created_at": "2024-11-07T15:34:47.344426Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-07T15:34:46Z",
+    "extensions": {
+      "coingeckoId": "trump-derangement-syndrome"
+    }
+  },
+  {
+    "address": "VaxZxmFXV8tmsd72hUn22ex6GFzZ5uq9DVJ5wA5pump",
+    "name": "spinning cat",
+    "symbol": "OIIAOIIA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfC1jPAMG3Ygow9MboroygQhfwibf6DiYEzgD3sK64Qig",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 383699.8035035734,
+    "created_at": "2024-09-30T22:29:39.928518Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-09-30T22:29:39Z",
+    "extensions": {
+      "coingeckoId": "spinning-cat"
+    }
+  },
+  {
+    "address": "4PSQ9VD9fRrNSx6Q8JjyyXnNbNzb4BJFkGabX3V6pump",
+    "name": "Return Of Inuvestment",
+    "symbol": "ROI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbQNYj9Bf6okVwGepf2tycs9C937yDycaMBPHc975BYin",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 352359.82487373747,
+    "created_at": "2025-01-24T15:08:26.653817Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+    "name": "Star Atlas",
+    "symbol": "ATLAS",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
+    "tags": [
+      "verified",
+      "community",
+      "strict",
+      "birdeye-trending"
+    ],
+    "daily_volume": 333740.6379907277,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "BVJESvrDeXZcSX5UVdK2Tt57Lur9gyakgCfdX45pVQ1V",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "star-atlas"
+    }
+  },
+  {
+    "address": "d32osT3gjQfdsRXKKhFw2ByE5fFEjBoucQdaZtrpump",
+    "name": "flashing at 5m",
+    "symbol": "Flashing5m",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRuRKGQks8uESpAFWtBd29MXzfvdwu7iHhhnTjaGSuCxR",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 329832.0792625761,
+    "created_at": "2025-01-24T02:37:18.440383Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-24T02:37:15Z",
+    "extensions": {}
+  },
+  {
+    "address": "AUdUEc98MGfEHJiJfCgMaW8gKdcfNDio8BFzGKBwjztC",
+    "name": "Digicoin",
+    "symbol": "Digi",
+    "decimals": 4,
+    "logoURI": "https://ipfs.io/ipfs/QmNS7JWdNRicTMBycEM79zJshTVvB16xocLAFCFTG5DKi9",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 292956.9299435866,
+    "created_at": "2024-12-21T22:09:15.671382Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-27T19:58:53Z",
+    "extensions": {
+      "coingeckoId": "digicoin"
+    }
+  },
+  {
+    "address": "CQSPU12VppGZB7LeRkEaKzrRBzvo1LyA9mR2ydiwKHaL",
+    "name": "kanye",
+    "symbol": "YE",
+    "decimals": 5,
+    "logoURI": "https://bafkreieamcn3bh7jmmpmjlg4sh4bn6xs6qczowwzqefh3e3v2nilvgqu2i.ipfs.nftstorage.link",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 285150.009067146,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-01-15T21:31:40Z",
+    "extensions": {
+      "coingeckoId": "kanye"
+    }
+  },
+  {
+    "address": "2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
+    "name": "PUPS WORLD PEACE",
+    "symbol": "PUPS",
+    "decimals": 9,
+    "logoURI": "https://metadata.runemine.com/pupsworldpeace.jpg",
+    "tags": [
+      "community",
+      "verified",
+      "birdeye-trending"
+    ],
+    "daily_volume": 262732.98685714713,
+    "created_at": "2024-08-28T14:30:00.791020Z",
+    "freeze_authority": null,
+    "mint_authority": "2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
+    "permanent_delegate": null,
+    "minted_at": "2024-08-13T18:47:50Z",
+    "extensions": {
+      "coingeckoId": "rune-pups"
+    }
+  },
+  {
+    "address": "GKZbA2gDzw3MoxbfRsnrJTNi5uBDrnrz9bq1pNnx6kv",
+    "name": "GameBoy",
+    "symbol": "GBOY",
+    "decimals": 9,
+    "logoURI": "https://bafkreich22pir5zeiehxfzwn4utve5kaiqbnx6zbhsw25ldr6vkvo3lq6a.ipfs.nftstorage.link",
+    "tags": [
+      "community",
+      "strict",
+      "birdeye-trending",
+      "verified"
+    ],
+    "daily_volume": 262301.57858497964,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-01-30T00:27:47Z",
+    "extensions": {
+      "coingeckoId": "gameboy"
+    }
+  },
+  {
+    "address": "Goatm5cqggssKRUwbMnPhHXKtN5SDGEP57qjwTSHD1Xf",
+    "name": "GoatIndex.ai",
+    "symbol": "AIAI",
+    "decimals": 6,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeiagir22wfm56euadf2tdz4dyn6kkhla6h3qdgwcowfr3lo46kpkr4",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 256484.802192024,
+    "created_at": "2025-01-16T15:34:42.341509Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-16T12:17:41Z",
+    "extensions": {
+      "coingeckoId": "goatindex-ai"
+    }
+  },
+  {
+    "address": "5rSP1W2Jkir4Qy1M6rEYXFFi5HgbhrkVTajimrVgpump",
+    "name": "LEGIT",
+    "symbol": "LEGIT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNinWBibU4aeDcAXMjDwYZRXeg9mfe2AQNh8isoyGeBZi",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 237928.64228826205,
+    "created_at": "2024-12-04T05:55:32.099060Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-04T05:53:34Z",
+    "extensions": {
+      "coingeckoId": "legit"
+    }
+  },
+  {
+    "address": "3an8rhdepsLCya22af7qDBKPbdomw8K4iCHXaA2Gpump",
+    "name": "Gen Z Quant",
+    "symbol": "Quant",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQM2jhqyG689v2fC1Het1p1fJVBMpSDnMkq4tvncYfyiV",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 225474.77357496545,
+    "created_at": "2024-11-20T03:48:39.314534Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-11-20T03:48:37Z",
+    "extensions": {
+      "coingeckoId": "gen-z-quant"
+    }
+  },
+  {
+    "address": "8QBU4NAjQEee7ianHW8TX5XdAQtdZGkk7MLWVKynpump",
+    "name": "The Redemption Project",
+    "symbol": "REDEMPTION",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXE91GnorDy8ffDZTegqVU3HPLYw9fsSb6H7Efkefrou3",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 215863.56474337273,
+    "created_at": "2025-01-14T05:41:06.602932Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-14T05:41:05Z",
+    "extensions": {}
+  },
+  {
+    "address": "DXNh9rXfVHnCkHSrwpkgsaKbFeZmW9EjVWDAFKVVHGvc",
+    "name": "PlayStation 2",
+    "symbol": "PS2",
+    "decimals": 9,
+    "logoURI": "https://bafkreidgiyctic25gxykn7mty673pviplilwh6rzrvaetwmh3pmmkam53q.ipfs.nftstorage.link",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 194786.23908392267,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-01-17T22:41:53Z",
+    "extensions": {}
+  },
+  {
+    "address": "5hrT5zyNe9NDG3C1AvuxT3oAfhKNM6uSNQ3fRsxXpump",
+    "name": "Tryton",
+    "symbol": "TRT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeWJnVnVMdvA3iTcEQzAXoQtgjLmKYBACEE5FKXWyRuyC",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 192068.49830281365,
+    "created_at": "2025-01-24T18:33:05.166313Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "B89Hd5Juz7JP2dxCZXFJWk4tMTcbw7feDhuWGb3kq5qE",
+    "name": "Nodecoin",
+    "symbol": "NC",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/3fUHo_BbHmQnBYM1BNAj8pECYuAYYNYfVXdZ88yLSfc",
+    "tags": [
+      "birdeye-trending",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 163927.4681256408,
+    "created_at": "2025-01-01T07:18:35.110634Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2024-12-15T09:36:13Z",
+    "extensions": {
+      "coingeckoId": "nodecoin"
+    }
+  },
+  {
+    "address": "J73iJbQFQtBYuzD57PbZMYeLmFUHEki9ih5CvhaYVDuh",
+    "name": "DarkFarms",
+    "symbol": "DARKFARMS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmaix8PgmkMTD2Jkd24TSCSuSNNVY2JG7MHRjd3AfYyQM6",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 158916.76799766815,
+    "created_at": "2025-01-24T18:22:28.810184Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "97WQm8aUu2gprFzEYfGmdJ7wcF4NSDPgvn3hvbDHpump",
+    "name": "New Born Rhino",
+    "symbol": "LAKKHI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQoT5MfNZaRoeRY9xGSiLeCDSJn852WycwcNc8bt5sTvG",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 144648.86708682094,
+    "created_at": "2025-01-03T07:08:01.206041Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-03T07:07:59Z",
+    "extensions": {
+      "coingeckoId": "new-born-rhino"
+    }
+  },
+  {
+    "address": "FCs2aw7P6DxYzFAx7wwqDe6ULUgc3obMG769haBYpump",
+    "name": "NEWMOON",
+    "symbol": "NEWMOON",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeWp37w1E6dE4GmGHxPxFxrAFpEdYbZ1YvFo42Ag2HYNT",
+    "tags": [
+      "birdeye-trending",
+      "unknown"
+    ],
+    "daily_volume": 82215.00807247148,
+    "created_at": "2025-01-24T13:19:39.839785Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {}
+  },
+  {
+    "address": "G4DgtgjeXhwYy6s1SCe8KomggEMmDfowdUfVP8m6pump",
+    "name": "CUM ROCKET",
+    "symbol": "CUMMIES",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmck7wHSf8jVwEyYfX8wavwhM5UT6fGewxuHGwGRRo7i6S",
+    "tags": [
+      "unknown",
+      "birdeye-trending"
+    ],
+    "daily_volume": 72914.80190262377,
+    "created_at": "2025-01-24T09:35:42.962908Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": "2025-01-24T09:35:41Z",
+    "extensions": {}
+  }
+]

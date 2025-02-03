@@ -1,0 +1,18 @@
+{
+  "data": {
+    "getTokenInfo": {
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "totalSupply": "999999713.682073",
+      "circulatingSupply": "200000000",
+      "description": "This is YOUR chance to join a community that’s all about fighting for what matters. The TRUMP Meme encourages a culture of success & optimism to make the world a better place. Go TRUMP! 👊",
+      "isScam": false,
+      "networkId": 1399811149,
+      "cmcId": 35336,
+      "imageLargeUrl": "https://token-media.defined.fi/1399811149_6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN_large_34a6fcd4-9c73-4464-976e-328c59ddfc2d.png",
+      "imageSmallUrl": "https://token-media.defined.fi/1399811149_6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN_1737580799_small.png",
+      "imageThumbUrl": "https://token-media.defined.fi/1399811149_6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN_thumb_34a6fcd4-9c73-4464-976e-328c59ddfc2d.png",
+      "imageBannerUrl": "https://token-media.defined.fi/1399811149_6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN_1737580800_banner.png"
+    }
+  }
+}

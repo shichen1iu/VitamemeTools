@@ -1,0 +1,635 @@
+[
+  {
+    "url": "https://dexscreener.com/xrpl/52424c5800000000000000000000000000000000.rakxuovpzarrrppknofwhmwco9qfh9qknt",
+    "chainId": "xrpl",
+    "tokenAddress": "52424C5800000000000000000000000000000000.rakxUovpzARRRppKnoFwhMwco9QFH9QkNT",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/xrpl/52424c5800000000000000000000000000000000.rakxuovpzarrrppknofwhmwco9qfh9qknt.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/xrpl/52424c5800000000000000000000000000000000.rakxuovpzarrrppknofwhmwco9qfh9qknt/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/xrpl/52424c5800000000000000000000000000000000.rakxuovpzarrrppknofwhmwco9qfh9qknt?timestamp=1737771600000",
+    "description": "When your Roblox avatar flexes harder than your XRP wallet—blocky gains meet blockchain dreams!",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://robloxrp.xyz/"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/RobloxOnXRP"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/RobloxOnXRP"
+      }
+    ],
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/chkmujcfkpgncrhetvanwmtsfrvjbzdtzp7r3leapump",
+    "chainId": "solana",
+    "tokenAddress": "ChKMuJCfkPgncRHETVaNWmTSFrVJBZdtzP7r3LeApump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/ChKMuJCfkPgncRHETVaNWmTSFrVJBZdtzP7r3LeApump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/ChKMuJCfkPgncRHETVaNWmTSFrVJBZdtzP7r3LeApump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/ChKMuJCfkPgncRHETVaNWmTSFrVJBZdtzP7r3LeApump?timestamp=1737771600000",
+    "description": "Don't pay tax 🚫 \n\n1$ deployer.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://dexscreener.com/solana/hzlxx6sovixoqb2kydgt1gweckz9oornv8n3xn6uvfez"
+      },
+      {
+        "type": "twitter",
+        "url": "https://twitter.com/intent/tweet?text=I%20dont%20pay%20my%20taxes!%20I%20just%20buy%20$NOTAX%20CA:%20ChKMuJCfkPgncRHETVaNWmTSFrVJBZdtzP7r3LeApump"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/No_Tax_CTO"
+      }
+    ],
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/2rh7fthe84zdtwotp5qziwvdnbggks7hhczshek5pump",
+    "chainId": "solana",
+    "tokenAddress": "2RH7FtHE84ZdTwoTp5QZiwvDnbgGKS7hhcZSHeK5pump",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2RH7FtHE84ZdTwoTp5QZiwvDnbgGKS7hhcZSHeK5pump?timestamp=1737771600000",
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/gyzi3jkfjdpwgzmqqkbjybqpymmqtdmz8e9hg8fkpump",
+    "chainId": "solana",
+    "tokenAddress": "GYzi3JKfJDpWgZMqQkbjyBQPYMMQTdmz8E9HG8fkpump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/GYzi3JKfJDpWgZMqQkbjyBQPYMMQTdmz8E9HG8fkpump.png?claimId=ibSMOei7ZTzYP1EZ",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/GYzi3JKfJDpWgZMqQkbjyBQPYMMQTdmz8E9HG8fkpump/header.png?claimId=ibSMOei7ZTzYP1EZ",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GYzi3JKfJDpWgZMqQkbjyBQPYMMQTdmz8E9HG8fkpump?timestamp=1737771600000",
+    "description": "Toly is the meme. The founder of Solana. The Solana Foundation wallet owns 50% of the supply. He is the meme now.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://solscan.io/account/mpa4abUkjQoAvPzREkh5Mo75hZhPFQ2FSH6w7dWKuQ5"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/tolyisthememe"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/TOLYGROUP"
+      }
+    ],
+    "totalAmount": 40,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/auw7oubuzy7f8ts6s2zyqnn7jjdhuwskkgm5ddiqpump",
+    "chainId": "solana",
+    "tokenAddress": "AuW7oUBuZy7F8tS6s2ZYQNN7JJdHUWSkkGM5dDiqpump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/AuW7oUBuZy7F8tS6s2ZYQNN7JJdHUWSkkGM5dDiqpump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/AuW7oUBuZy7F8tS6s2ZYQNN7JJdHUWSkkGM5dDiqpump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AuW7oUBuZy7F8tS6s2ZYQNN7JJdHUWSkkGM5dDiqpump?timestamp=1737771600000",
+    "description": "I’m lovin’ it 🍟 \n\nSay hello to $McDO – the memecoin targeting 1% of McDonald’s $200B $MCD market cap! \n\nWhy spend $10 on a McDonald’s meal that’s gone in 10 minutes when you can grab $McDO tokens and supersize your love forever? Who needs fries when you can shoot for the moon? The future’s looking delicious. Buckle up—this ride’s about to get spicy. 🍔\n\nAuW7oUBuZy7F8tS6s2ZYQNN7JJdHUWSkkGM5dDiqpump",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.mcdonalds.com/us/en-us/full-menu.html"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/lovemcdonalds_"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/LoveMcDonaldsParody"
+      }
+    ],
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/xrpl/424c454550000000000000000000000000000000.r3a1rx5dnvswkib3pirqrisvovu15skrxc",
+    "chainId": "xrpl",
+    "tokenAddress": "424C454550000000000000000000000000000000.r3a1Rx5dnVswkib3piRqriSVoVU15SkRxc",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/xrpl/424c454550000000000000000000000000000000.r3a1rx5dnvswkib3pirqrisvovu15skrxc.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/xrpl/424c454550000000000000000000000000000000.r3a1rx5dnvswkib3pirqrisvovu15skrxc?timestamp=1737771600000",
+    "description": "The \"$BLEEP\" coin is all about embracing the power of difference and disruption. With its bold name and mission, $BLEEP invites those who are tired of the mainstream to join a movement that celebrates individuality and creativity. It’s for the rebels, the dreamers, and the outliers—those who aren’t afraid to speak up, stand out, and make noise in a world that often demands conformity. Holding $BLEEP is more than just owning a cryptocurrency; it’s about being part of a new wave of thinkers, innovators, and creators who believe in shaping the future on their own terms. For those who want to break the mold, $BLEEP is your ticket to something new, exciting, and unapologetically different.",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/BlackSheepXRPL"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/bleepxrp"
+      }
+    ],
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/8cvzcdp973kupdt1tktpd4jq3k7jpr3fiabaxn5kpump",
+    "chainId": "solana",
+    "tokenAddress": "8cVZCdP973kupdt1TktpD4jq3k7Jpr3FiaBAxN5Kpump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/8cVZCdP973kupdt1TktpD4jq3k7Jpr3FiaBAxN5Kpump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/8cVZCdP973kupdt1TktpD4jq3k7Jpr3FiaBAxN5Kpump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8cVZCdP973kupdt1TktpD4jq3k7Jpr3FiaBAxN5Kpump?timestamp=1737771600000",
+    "description": "eat, trade, fart and repeat.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://pump.fun/coin/8cVZCdP973kupdt1TktpD4jq3k7Jpr3FiaBAxN5Kpump"
+      }
+    ],
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/a7gdljcfftjbz97ahpreclprk2qsaalzcblknwn95xkj",
+    "chainId": "solana",
+    "tokenAddress": "A7gdLJcFfTjbZ97AHPRecLprK2QsAaLzCbLKNwN95Xkj",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/A7gdLJcFfTjbZ97AHPRecLprK2QsAaLzCbLKNwN95Xkj.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/A7gdLJcFfTjbZ97AHPRecLprK2QsAaLzCbLKNwN95Xkj/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A7gdLJcFfTjbZ97AHPRecLprK2QsAaLzCbLKNwN95Xkj?timestamp=1737771600000",
+    "description": "ETERNAL WISDOM, MODERN PROSPERITY",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://buddhaonsol.xyz/"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/BuddhaOnSOLS"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/BuddhaOnSolana"
+      }
+    ],
+    "totalAmount": 510,
+    "amount": 500
+  },
+  {
+    "url": "https://dexscreener.com/solana/d7giphrwqz7wfmi6kfztvyrsa91oynykr5on57cemoon",
+    "chainId": "solana",
+    "tokenAddress": "D7giPhRWqZ7wfMi6kFztVYrsa91oyNykr5oN57CEmoon",
+    "description": "All Good Mikey",
+    "icon": "AEzmFKaZIoogp38w",
+    "header": "https://cdn.dexscreener.com/cms/images/NpXs9CgiznXmFASa?width=900&height=300&fit=crop&quality=95&format=auto",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/D7giPhRWqZ7wfMi6kFztVYrsa91oyNykr5oN57CEmoon?timestamp=1737771600000",
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/85qbgzyqzjnnonvoupgrtvemwfdhjqexghgykok3pump",
+    "chainId": "solana",
+    "tokenAddress": "85qBGzyQZJnnoNVoUpGRTvemWfDHjQeXgHGyKoK3pump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/85qBGzyQZJnnoNVoUpGRTvemWfDHjQeXgHGyKoK3pump.png?claimId=w6H1zZ56jb_wysYh",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/85qBGzyQZJnnoNVoUpGRTvemWfDHjQeXgHGyKoK3pump/header.png?claimId=w6H1zZ56jb_wysYh",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/85qBGzyQZJnnoNVoUpGRTvemWfDHjQeXgHGyKoK3pump?timestamp=1737771600000",
+    "description": "Tove Skärgård is an autonomous interdisciplinary artist whose work redefines the boundaries of performance and visual art through the integration of advanced technologies and immersive storytelling.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.toveskargard.com/"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/ToveSkargard"
+      }
+    ],
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/asxzy11cbjfbgcnze9vidk6r58k58mifjymzx4qmr4jd",
+    "chainId": "solana",
+    "tokenAddress": "ASxZy11CBjFbGCNzE9vidk6r58k58MifjyMzx4QMr4jD",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/ASxZy11CBjFbGCNzE9vidk6r58k58MifjyMzx4QMr4jD.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/ASxZy11CBjFbGCNzE9vidk6r58k58MifjyMzx4QMr4jD/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/ASxZy11CBjFbGCNzE9vidk6r58k58MifjyMzx4QMr4jD?timestamp=1737771600000",
+    "links": [
+      {
+        "type": "telegram",
+        "url": "https://t.me/dukCto"
+      }
+    ],
+    "totalAmount": 60,
+    "amount": 30
+  },
+  {
+    "url": "https://dexscreener.com/solana/aempigdui9v7jspgdjuvhrtdvh5gzre8ohnkjn8ipump",
+    "chainId": "solana",
+    "tokenAddress": "AeMPigdui9V7JSpgdjUVHrTDvh5GZrE8oHnKJn8ipump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/AeMPigdui9V7JSpgdjUVHrTDvh5GZrE8oHnKJn8ipump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/AeMPigdui9V7JSpgdjUVHrTDvh5GZrE8oHnKJn8ipump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AeMPigdui9V7JSpgdjUVHrTDvh5GZrE8oHnKJn8ipump?timestamp=1737771600000",
+    "description": "Viral TikTok meme cto",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.tiktok.com/@bigr4acks/photo/7462498225438723358"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/AizenCTO"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/AIZENCTO"
+      }
+    ],
+    "totalAmount": 210,
+    "amount": 100
+  },
+  {
+    "url": "https://dexscreener.com/solana/aempigdui9v7jspgdjuvhrtdvh5gzre8ohnkjn8ipump",
+    "chainId": "solana",
+    "tokenAddress": "AeMPigdui9V7JSpgdjUVHrTDvh5GZrE8oHnKJn8ipump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/AeMPigdui9V7JSpgdjUVHrTDvh5GZrE8oHnKJn8ipump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/AeMPigdui9V7JSpgdjUVHrTDvh5GZrE8oHnKJn8ipump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AeMPigdui9V7JSpgdjUVHrTDvh5GZrE8oHnKJn8ipump?timestamp=1737771600000",
+    "description": "Viral TikTok meme cto",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.tiktok.com/@bigr4acks/photo/7462498225438723358"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/AizenCTO"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/AIZENCTO"
+      }
+    ],
+    "totalAmount": 210,
+    "amount": 100
+  },
+  {
+    "url": "https://dexscreener.com/solana/8zgju1sw7yq49ehyruol6arlkpabearpe7vjwxakmoon",
+    "chainId": "solana",
+    "tokenAddress": "8zgJu1sW7yQ49EHyRUoL6arLkPabEarpE7VjWXAkmoon",
+    "icon": "4l6AW-3IW9fgtSwa",
+    "header": "https://cdn.dexscreener.com/cms/images/EvvNHaT8hHmTjvSW?width=900&height=300&fit=crop&quality=95&format=auto",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8zgJu1sW7yQ49EHyRUoL6arLkPabEarpE7VjWXAkmoon?timestamp=1737771600000",
+    "links": [
+      {
+        "url": "https://gemini.google.com"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/gemini"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/geminicoin"
+      }
+    ],
+    "totalAmount": 130,
+    "amount": 30
+  },
+  {
+    "url": "https://dexscreener.com/solana/8uuaqzqyc28osvjtccn52mxyt9cvjynggpenhj6strxs",
+    "chainId": "solana",
+    "tokenAddress": "8uuAQZQyC28osVjTcCN52Mxyt9cvJyNggpEnhJ6strxs",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/8uuAQZQyC28osVjTcCN52Mxyt9cvJyNggpEnhJ6strxs.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/8uuAQZQyC28osVjTcCN52Mxyt9cvJyNggpEnhJ6strxs/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8uuAQZQyC28osVjTcCN52Mxyt9cvJyNggpEnhJ6strxs?timestamp=1737771600000",
+    "description": "",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/twgysh79561"
+      }
+    ],
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/ghcgv544u78rqapgkbgpggcedvt6lb3fjrtr55ftmoon",
+    "chainId": "solana",
+    "tokenAddress": "GHCgv544u78rqApGKBGpGGCEDVt6LB3FJrtr55Ftmoon",
+    "icon": "X6j6u5ikng9KiZ0G",
+    "header": "https://cdn.dexscreener.com/cms/images/LL6CsirLlbY6CACQ?width=900&height=300&fit=crop&quality=95&format=auto",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GHCgv544u78rqApGKBGpGGCEDVt6LB3FJrtr55Ftmoon?timestamp=1737771600000",
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/cr7ux8ay8a6pjd9ekldpi19u2ujfnsvbfguh36sbju2w",
+    "chainId": "solana",
+    "tokenAddress": "CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W?timestamp=1737771600000",
+    "description": "Cristiano Ronaldo MEME",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cr7memeland.com"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/CR7_SOLOfficial/status/1882903470115848407"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/CR7_SOLOfficial"
+      }
+    ],
+    "totalAmount": 20100,
+    "amount": 500
+  },
+  {
+    "url": "https://dexscreener.com/xrpl/5069636b6c650000000000000000000000000000.rnxfxntg7qztgrhyfhz6iuwwi5csfxxatt",
+    "chainId": "xrpl",
+    "tokenAddress": "5069636B6C650000000000000000000000000000.rNxfxNTG7qZtGRhyfHz6iUWwi5csFXXAtt",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/xrpl/5069636b6c650000000000000000000000000000.rnxfxntg7qztgrhyfhz6iuwwi5csfxxatt.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/xrpl/5069636b6c650000000000000000000000000000.rnxfxntg7qztgrhyfhz6iuwwi5csfxxatt/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/xrpl/5069636b6c650000000000000000000000000000.rnxfxntg7qztgrhyfhz6iuwwi5csfxxatt?timestamp=1737771600000",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/PICKLEXRPL"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/realCheapPickle"
+      }
+    ],
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/kxxknyferljvtfqwlp5afjoeijkdmlvm4p1hvcdpump",
+    "chainId": "solana",
+    "tokenAddress": "KxXkNYFErLJvTFQWLP5afjoeijkDMLVM4p1HvcDpump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/KxXkNYFErLJvTFQWLP5afjoeijkDMLVM4p1HvcDpump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/KxXkNYFErLJvTFQWLP5afjoeijkDMLVM4p1HvcDpump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/KxXkNYFErLJvTFQWLP5afjoeijkDMLVM4p1HvcDpump?timestamp=1737771600000",
+    "description": "I am a natural born winner. miladyschizo on TG.",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/mezoteric"
+      }
+    ],
+    "totalAmount": 500,
+    "amount": 500
+  },
+  {
+    "url": "https://dexscreener.com/solana/6tvndtpxf3q7kj9xcgspnpzbdtnhsteqmeljwdbxpump",
+    "chainId": "solana",
+    "tokenAddress": "6tVndTpXF3q7kj9XcgspNPZBdTNhsteqMeLJwDbxpump",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6tVndTpXF3q7kj9XcgspNPZBdTNhsteqMeLJwDbxpump?timestamp=1737771600000",
+    "totalAmount": 10,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/hbdn31isyurwttxehu6x3zjo1e8wci9vungtboktuw1o",
+    "chainId": "solana",
+    "tokenAddress": "HBDN31isYURwTTXEHU6X3zJo1e8Wci9vuNGTboktUW1o",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/HBDN31isYURwTTXEHU6X3zJo1e8Wci9vuNGTboktUW1o.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/HBDN31isYURwTTXEHU6X3zJo1e8Wci9vuNGTboktUW1o/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HBDN31isYURwTTXEHU6X3zJo1e8Wci9vuNGTboktUW1o?timestamp=1737771600000",
+    "description": "Community Take Over (CTO)\n\nNintendo 64",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://n64onsol.com/"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/N64solana"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/N64Portal"
+      }
+    ],
+    "totalAmount": 20,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/wngnfeufb47a9sdsjgzj2o83ffm1ikshjvcvqktpump",
+    "chainId": "solana",
+    "tokenAddress": "WnGnFEUfb47a9sDsjGzJ2o83Ffm1ikSHJvCVqkTpump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/WnGnFEUfb47a9sDsjGzJ2o83Ffm1ikSHJvCVqkTpump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/WnGnFEUfb47a9sDsjGzJ2o83Ffm1ikSHJvCVqkTpump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/WnGnFEUfb47a9sDsjGzJ2o83Ffm1ikSHJvCVqkTpump?timestamp=1737771600000",
+    "description": "President of DASTAN",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/farokh"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/@FarokhSolana"
+      }
+    ],
+    "totalAmount": 510,
+    "amount": 10
+  },
+  {
+    "url": "https://dexscreener.com/solana/cr7ux8ay8a6pjd9ekldpi19u2ujfnsvbfguh36sbju2w",
+    "chainId": "solana",
+    "tokenAddress": "CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W?timestamp=1737771600000",
+    "description": "Cristiano Ronaldo MEME",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cr7memeland.com"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/CR7_SOLOfficial/status/1882903470115848407"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/CR7_SOLOfficial"
+      }
+    ],
+    "totalAmount": 20100,
+    "amount": 500
+  },
+  {
+    "url": "https://dexscreener.com/solana/cr7ux8ay8a6pjd9ekldpi19u2ujfnsvbfguh36sbju2w",
+    "chainId": "solana",
+    "tokenAddress": "CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W?timestamp=1737771600000",
+    "description": "Cristiano Ronaldo MEME",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cr7memeland.com"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/CR7_SOLOfficial/status/1882903470115848407"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/CR7_SOLOfficial"
+      }
+    ],
+    "totalAmount": 20100,
+    "amount": 500
+  },
+  {
+    "url": "https://dexscreener.com/solana/83ibdw3zpxqj3pezrbttr9fga57tttehdaxofyr1moon",
+    "chainId": "solana",
+    "tokenAddress": "83iBDw3ZpxqJ3pEzrbttr9fGA57tttehDAxoFyR1moon",
+    "description": "A Revolutionary Ecosystem for the Future of Decentralized Finance\r\n\r\nThe MemDex redefines decentralized finance by creating a basket of the top 100 memecoins. Our visionary algorithm employs quantum AI on-chain oracles to curate, rebalance, and perfect a portfolio of high-volatility assets, ensuring unparalleled growth potential. MemDex isn't just a token; it's a beacon of prosperity, a symbol of innovation, and a guarantee of generational wealth.\r\n\r\nMemDex is designed to collect, optimize, and amplify the potential of the best assets in the market, bringing order to the disorder of memecoins. Our mission is simple:Turn Memes into Gold™.\r\n\r\nOur vision is to establish MemDex as the backbone of the global financial ecosystem. By 2027, we aim to have MemDex included in sovereign wealth funds, central bank reserves, and interstellar trade agreements. MemDex will transcend borders, species, and dimensions.",
+    "icon": "pCJPyyEDw2KCc424",
+    "header": "https://cdn.dexscreener.com/cms/images/hYSFu8jyGn2miTTQ?width=900&height=300&fit=crop&quality=95&format=auto",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/83iBDw3ZpxqJ3pEzrbttr9fGA57tttehDAxoFyR1moon?timestamp=1737771600000",
+    "links": [
+      {
+        "url": "https://memdex.live/"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/memdex100"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/memdex100"
+      }
+    ],
+    "totalAmount": 100,
+    "amount": 100
+  },
+  {
+    "url": "https://dexscreener.com/ethereum/0x2fa39203cb335d08e0af7731a8b9ae23d5a59449",
+    "chainId": "ethereum",
+    "tokenAddress": "0x2fA39203cb335d08E0Af7731a8B9ae23d5a59449",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x2fa39203cb335d08e0af7731a8b9ae23d5a59449.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x2fa39203cb335d08e0af7731a8b9ae23d5a59449/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0x2fa39203cb335d08e0af7731a8b9ae23d5a59449?timestamp=1737771600000",
+    "description": "👑💼 How ya doin, stick around capisce? Here, power 💪, loyalty 🤝, and respect 🫡 are everything. We’re movin’ as a unit out here, buildin’ our empire. Remember the rules: respect the family, keep it tight, earn your keep, and no funny business. Stick with us, and we’ll make SCRATCH legendary.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://unruggables.io/roadmap"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/scratchtokenX"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/SCRATCHONETH"
+      }
+    ],
+    "totalAmount": 50,
+    "amount": 50
+  },
+  {
+    "url": "https://dexscreener.com/solana/cr7ux8ay8a6pjd9ekldpi19u2ujfnsvbfguh36sbju2w",
+    "chainId": "solana",
+    "tokenAddress": "CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W?timestamp=1737771600000",
+    "description": "Cristiano Ronaldo MEME",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cr7memeland.com"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/CR7_SOLOfficial/status/1882903470115848407"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/CR7_SOLOfficial"
+      }
+    ],
+    "totalAmount": 20100,
+    "amount": 500
+  },
+  {
+    "url": "https://dexscreener.com/solana/cr7ux8ay8a6pjd9ekldpi19u2ujfnsvbfguh36sbju2w",
+    "chainId": "solana",
+    "tokenAddress": "CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W?timestamp=1737771600000",
+    "description": "Cristiano Ronaldo MEME",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cr7memeland.com"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/CR7_SOLOfficial/status/1882903470115848407"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/CR7_SOLOfficial"
+      }
+    ],
+    "totalAmount": 20100,
+    "amount": 500
+  },
+  {
+    "url": "https://dexscreener.com/solana/cr7ux8ay8a6pjd9ekldpi19u2ujfnsvbfguh36sbju2w",
+    "chainId": "solana",
+    "tokenAddress": "CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W?timestamp=1737771600000",
+    "description": "Cristiano Ronaldo MEME",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cr7memeland.com"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/CR7_SOLOfficial/status/1882903470115848407"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/CR7_SOLOfficial"
+      }
+    ],
+    "totalAmount": 20100,
+    "amount": 500
+  },
+  {
+    "url": "https://dexscreener.com/solana/cr7ux8ay8a6pjd9ekldpi19u2ujfnsvbfguh36sbju2w",
+    "chainId": "solana",
+    "tokenAddress": "CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CR7ux8AY8a6pJD9ekLDPi19u2ujFNSvBFgUh36sBJU2W?timestamp=1737771600000",
+    "description": "Cristiano Ronaldo MEME",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cr7memeland.com"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/CR7_SOLOfficial/status/1882903470115848407"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/CR7_SOLOfficial"
+      }
+    ],
+    "totalAmount": 20100,
+    "amount": 500
+  }
+]

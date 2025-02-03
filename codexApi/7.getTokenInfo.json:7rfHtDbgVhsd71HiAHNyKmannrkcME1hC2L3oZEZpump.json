@@ -1,0 +1,20 @@
+{
+  "data": {
+    "getTokenInfo": {
+      "address": "7rfHtDbgVhsd71HiAHNyKmannrkcME1hC2L3oZEZpump",
+      "circulatingSupply": "999770631.959302",
+      "cmcId": null,
+      "description": "",
+      "id": "7rfHtDbgVhsd71HiAHNyKmannrkcME1hC2L3oZEZpump:1399811149",
+      "imageBannerUrl": null,
+      "imageLargeUrl": "https://token-media.defined.fi/1399811149_7rfHtDbgVhsd71HiAHNyKmannrkcME1hC2L3oZEZpump_1737871353_large.png",
+      "imageSmallUrl": "https://token-media.defined.fi/1399811149_7rfHtDbgVhsd71HiAHNyKmannrkcME1hC2L3oZEZpump_1737871353_small.png",
+      "imageThumbUrl": "https://token-media.defined.fi/1399811149_7rfHtDbgVhsd71HiAHNyKmannrkcME1hC2L3oZEZpump_1737871353_thumb.png",
+      "isScam": null,
+      "name": " ",
+      "networkId": 1399811149,
+      "symbol": "YE",
+      "totalSupply": "999770631.959302"
+    }
+  }
+}

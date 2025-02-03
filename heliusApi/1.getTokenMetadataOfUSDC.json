@@ -1,0 +1,78 @@
+[
+  {
+    "account": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "onChainAccountInfo": {
+      "accountInfo": {
+        "key": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "isSigner": false,
+        "isWritable": false,
+        "lamports": 371176739971,
+        "data": {
+          "parsed": {
+            "info": {
+              "decimals": 6,
+              "freezeAuthority": "7dGbd2QZcCKcTndnHcTL8q7SMVXAkp688NTQYwrRCrar",
+              "isInitialized": true,
+              "mintAuthority": "BJE5MMbqXjVwjAF7oxwPYXnTXDyspzZyt4vwenNw5ruG",
+              "supply": "9044642686788517"
+            },
+            "type": "mint"
+          },
+          "program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "space": 82
+        },
+        "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "executable": false,
+        "rentEpoch": 18446744073709552000
+      },
+      "error": ""
+    },
+    "onChainMetadata": {
+      "metadata": {
+        "tokenStandard": "UnknownStandard",
+        "key": "MetadataV1",
+        "updateAuthority": "2wmVCSfPxGPjrnMMn7rchp4uaeoTqN39mXFC2zhPdri9",
+        "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "data": {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "uri": "",
+          "sellerFeeBasisPoints": 0,
+          "creators": null
+        },
+        "primarySaleHappened": false,
+        "isMutable": true,
+        "editionNonce": 252,
+        "uses": {
+          "useMethod": "",
+          "remaining": 0,
+          "total": 0
+        },
+        "collection": null,
+        "collectionDetails": null
+      },
+      "error": ""
+    },
+    "offChainMetadata": {
+      "metadata": null,
+      "uri": "",
+      "error": "OFFCHAIN_URI_EMPTY"
+    },
+    "legacyMetadata": {
+      "chainId": 101,
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://www.centre.io/"
+      }
+    }
+  }
+]

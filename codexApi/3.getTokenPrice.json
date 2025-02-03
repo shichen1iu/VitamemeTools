@@ -1,0 +1,14 @@
+{
+  "data": {
+    "getTokenPrices": [
+      {
+        "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "networkId": 1399811149,
+        "priceUsd": 33.9207445114,
+        "confidence": null,
+        "poolAddress": "6uqNoghWR37pFYnWfSMwv1xEAhPGUJCJe2C8fsB96ro1",
+        "timestamp": 1737721418
+      }
+    ]
+  }
+}

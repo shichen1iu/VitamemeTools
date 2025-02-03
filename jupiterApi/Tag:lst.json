@@ -1,0 +1,2305 @@
+[
+  {
+    "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "name": "Jito Staked SOL",
+    "symbol": "JitoSOL",
+    "decimals": 9,
+    "logoURI": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
+    "tags": [
+      "verified",
+      "community",
+      "strict",
+      "lst"
+    ],
+    "daily_volume": 125427263.76862928,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "6iQKfEyhr3bZMotVkW6beNZz5CPAkiwvgV2CTje9pVSS",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "jito-staked-sol"
+    }
+  },
+  {
+    "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+    "name": "Jupiter Staked SOL",
+    "symbol": "JupSOL",
+    "decimals": 9,
+    "logoURI": "https://static.jup.ag/jupSOL/icon.png",
+    "tags": [
+      "community",
+      "strict",
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 35964262.540047556,
+    "created_at": "2024-04-26T10:57:45.759228Z",
+    "freeze_authority": null,
+    "mint_authority": "EMjuABxELpYWYEwjkKmQKBNCwdaFAy4QYAs6W9bDQDNw",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-25T09:28:04Z",
+    "extensions": {
+      "coingeckoId": "jupiter-staked-sol"
+    }
+  },
+  {
+    "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "name": "Marinade staked SOL (mSOL)",
+    "symbol": "mSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
+    "tags": [
+      "community",
+      "strict",
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 24526805.253586564,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "3JLPCS1qM2zRw3Dp6V4hZnYHd4toMNPkNesXdX9tg6KM",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "msol"
+    }
+  },
+  {
+    "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+    "name": "BlazeStake Staked SOL (bSOL)",
+    "symbol": "bSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png",
+    "tags": [
+      "strict",
+      "lst",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 8997676.846462138,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "blazestake-staked-sol"
+    }
+  },
+  {
+    "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+    "name": "Infinity",
+    "symbol": "INF",
+    "decimals": 9,
+    "logoURI": "https://bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e.ipfs.nftstorage.link/",
+    "tags": [
+      "community",
+      "lst",
+      "verified",
+      "strict"
+    ],
+    "daily_volume": 7421981.417033939,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "AYhux5gJzCoeoc1PoJ1VxwPDe22RwcvpHviLDD1oCGvW",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "socean-staked-sol"
+    }
+  },
+  {
+    "address": "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ",
+    "name": "Drift Staked SOL",
+    "symbol": "dSOL",
+    "decimals": 9,
+    "logoURI": "https://drift-public.s3.eu-central-1.amazonaws.com/dSOL.svg",
+    "tags": [
+      "verified",
+      "community",
+      "lst",
+      "strict"
+    ],
+    "daily_volume": 3720264.219609593,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "6727ZvQ2YEz8jky1Z9fqDFG5mYuAvC9G34o2MxwzmrUK",
+    "permanent_delegate": null,
+    "minted_at": "2024-01-22T12:26:04Z",
+    "extensions": {
+      "coingeckoId": "drift-staked-sol"
+    }
+  },
+  {
+    "address": "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp",
+    "name": "Liquid Staking Token",
+    "symbol": "LST",
+    "decimals": 9,
+    "logoURI": "https://storage.googleapis.com/static-marginfi/lst.png",
+    "tags": [
+      "verified",
+      "community",
+      "strict",
+      "lst"
+    ],
+    "daily_volume": 1779917.4593528907,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "3b7XQeZ8nSMyjcQGTFJS5kBw4pXS2SqtB9ooHCnF2xV9",
+    "permanent_delegate": null,
+    "minted_at": "2023-09-16T05:38:23Z",
+    "extensions": {
+      "coingeckoId": "liquid-staking-token"
+    }
+  },
+  {
+    "address": "EPCz5LK372vmvCkZH3HgSuGNKACJJwwxsofW6fypCPZL",
+    "name": "StaRKe SOL",
+    "symbol": "rkSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/INyKzzPVD4BUqqMgQbd_QxmhmPJq-NrLHujNTouwD4g",
+    "tags": [
+      "verified",
+      "community",
+      "lst",
+      "strict"
+    ],
+    "daily_volume": 917922.5012791558,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "8uKJ5wLUFXYdqTJw2JHRzdcWB8JLR96mEf9dreqD6d5X",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-16T21:53:39Z",
+    "extensions": {}
+  },
+  {
+    "address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+    "name": "Bonk SOL",
+    "symbol": "bonkSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4",
+    "tags": [
+      "lst",
+      "verified",
+      "community",
+      "strict"
+    ],
+    "daily_volume": 857505.81533138,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "9LcmMfufi8YUcx83RALwF9Y9BPWZ7SqGy4D9VLe2nhhA",
+    "permanent_delegate": null,
+    "minted_at": "2024-01-18T23:21:53Z",
+    "extensions": {
+      "coingeckoId": "bonk-staked-sol"
+    }
+  },
+  {
+    "address": "StPsoHokZryePePFV8N7iXvfEmgUoJ87rivABX7gaW6",
+    "name": "stepSOL",
+    "symbol": "stepSOL",
+    "decimals": 9,
+    "logoURI": "https://step-public.s3.eu-north-1.amazonaws.com/StepSOL.svg",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 782670.8955346307,
+    "created_at": "2024-07-26T08:40:12.359405Z",
+    "freeze_authority": null,
+    "mint_authority": "8wU5ThsUmjUx4hnDQb3wHswdXenc9GiSJ8ivTpRDaSAz",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-24T22:01:38Z",
+    "extensions": {
+      "coingeckoId": "step-staked-sol"
+    }
+  },
+  {
+    "address": "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B",
+    "name": "BybitSOL",
+    "symbol": "bbSOL",
+    "decimals": 9,
+    "logoURI": "https://static.bymj.io/web3/staking/bbsol/bbsol2.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 738662.7336445905,
+    "created_at": "2024-08-22T10:22:05.948228Z",
+    "freeze_authority": null,
+    "mint_authority": "3pFTQjRVwcJHSpUNH5n1hx6Jwx7V3EzJDDHaKuwExyGJ",
+    "permanent_delegate": null,
+    "minted_at": "2024-08-21T04:03:39Z",
+    "extensions": {
+      "coingeckoId": "bybit-staked-sol"
+    }
+  },
+  {
+    "address": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX",
+    "name": "SolanaHub staked SOL",
+    "symbol": "hubSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/RI0OfNg4Ldn5RRdOp9lE60NqUmweGtJxF5N8JjU_Y0k",
+    "tags": [
+      "strict",
+      "verified",
+      "community",
+      "lst"
+    ],
+    "daily_volume": 685920.6646721016,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "Am87irh66UBgzkQUrw2XdUYE6r2XLFfADgmSFdZk2K4r",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-14T17:43:43Z",
+    "extensions": {
+      "coingeckoId": "solanahub-staked-sol"
+    }
+  },
+  {
+    "address": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+    "name": "Helius Staked SOL",
+    "symbol": "hSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/hSOL/hSOL.png",
+    "tags": [
+      "lst",
+      "community",
+      "strict",
+      "verified"
+    ],
+    "daily_volume": 634007.3292462041,
+    "created_at": "2024-04-26T11:00:55.121424Z",
+    "freeze_authority": null,
+    "mint_authority": "2rMuGTyXCqCHZBSu6NZR9Aq8MhZX9gLkCHoQsPhSj2YF",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-16T15:57:47Z",
+    "extensions": {
+      "coingeckoId": "helius-staked-sol"
+    }
+  },
+  {
+    "address": "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85",
+    "name": "Binance Staked SOL",
+    "symbol": "BNSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/LepI-hea-JrbLMb4L_HpMzaq9k0aHY2-lVSGiBtwvFM?ext=png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 631992.6864414286,
+    "created_at": "2024-09-10T03:47:30.706774Z",
+    "freeze_authority": null,
+    "mint_authority": "75NPzpxoh8sXGuSENFMREidq6FMzEx4g2AfcBEB6qjCV",
+    "permanent_delegate": null,
+    "minted_at": "2024-08-26T06:04:34Z",
+    "extensions": {
+      "coingeckoId": "binance-staked-sol"
+    }
+  },
+  {
+    "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+    "name": "Lido Staked SOL",
+    "symbol": "stSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/logo.png",
+    "tags": [
+      "strict",
+      "lst",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 590702.0331236314,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "8kRRsKezwXS21beVDcAoTmih1XbyFnEAMXXiGXz6J3Jz",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "lido-staked-sol"
+    }
+  },
+  {
+    "address": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+    "name": "Stronghold LST",
+    "symbol": "strongSOL",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/CqCTE2k6ext17JLE7EFk6pXAznS7m1rLJaN9nHxUAwpc/stronghold.png",
+    "tags": [
+      "strict",
+      "lst",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 387672.70878421015,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "ABCTazdzA7j6CHbnuetnWuvpeKh2XmxqVP75D8KJfsSK",
+    "permanent_delegate": null,
+    "minted_at": "2024-02-17T16:32:15Z",
+    "extensions": {
+      "coingeckoId": "stronghold-staked-sol"
+    }
+  },
+  {
+    "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "name": "The Vault",
+    "symbol": "vSOL",
+    "decimals": 9,
+    "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+    "tags": [
+      "lst",
+      "verified",
+      "community",
+      "strict"
+    ],
+    "daily_volume": 270168.31186591135,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "GdNXJobf8fbTR5JSE7adxa6niaygjx4EEbnnRaDCHMMW",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-12T02:42:27Z",
+    "extensions": {
+      "coingeckoId": "the-vault-staked-sol"
+    }
+  },
+  {
+    "address": "Comp4ssDzXcLeu2MnLuGNNFC4cmLPMng8qWHPvzAMU1h",
+    "name": "Compass SOL",
+    "symbol": "compassSOL",
+    "decimals": 9,
+    "logoURI": "https://solanacompass.com/compass.png",
+    "tags": [
+      "lst",
+      "community",
+      "strict",
+      "verified"
+    ],
+    "daily_volume": 212913.8765267815,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "3SpAsJj9mXsDmwtaE6zSgEh78ZZE278TBnYgAAy5DHaM",
+    "permanent_delegate": null,
+    "minted_at": "2024-02-01T12:33:41Z",
+    "extensions": {
+      "coingeckoId": "solana-compass-staked-sol"
+    }
+  },
+  {
+    "address": "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X",
+    "name": "Laine Stake",
+    "symbol": "laineSOL",
+    "decimals": 9,
+    "logoURI": "https://vvmbtadq63n53sdsqhlzbnzhvj5tdfp7moqixyv7rgkk6frqhqqq.arweave.net/rVgZgHD2293IcoHXkLcnqnsxlf9joIviv4mUrxYwPCE",
+    "tags": [
+      "lst",
+      "verified",
+      "community",
+      "strict"
+    ],
+    "daily_volume": 174643.04528120795,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "AAbVVaokj2VSZCmSU5Uzmxi6mxrG1n6StW9mnaWwN6cv",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "laine-stake"
+    }
+  },
+  {
+    "address": "GRJQtWwdJmp5LLpy8JWjPgn5FnLyqSJGNhn5ZnCTFUwM",
+    "name": "Overclock SOL",
+    "symbol": "clockSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/Overclock-Validator/assets/main/img.png",
+    "tags": [
+      "lst",
+      "community",
+      "verified",
+      "strict"
+    ],
+    "daily_volume": 54424.87629850814,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "JECzmc2XbPgS4U8h3ASEw7uytc3p4uFyj2Nw1u4DeBEM",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-08T03:16:18Z",
+    "extensions": {
+      "coingeckoId": "overclock-staked-sol"
+    }
+  },
+  {
+    "address": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+    "name": "Lantern Staked SOL",
+    "symbol": "lanternSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/juI8rxciTff6pljaDiXMEq5klSOngQol_8lvyokGGwY",
+    "tags": [
+      "community",
+      "lst",
+      "strict",
+      "verified"
+    ],
+    "daily_volume": 53570.81345498222,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "6Sw4WcMTakZFrd19Q4hTH8ewiLxXXTCuBdVxAaneg1fo",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-15T16:16:01Z",
+    "extensions": {
+      "coingeckoId": "lantern-staked-sol"
+    }
+  },
+  {
+    "address": "pathdXw4He1Xk3eX84pDdDZnGKEme3GivBamGCVPZ5a",
+    "name": "Pathfinders SOL",
+    "symbol": "pathSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/pathSOL/pathSOL.png",
+    "tags": [
+      "community",
+      "verified",
+      "lst",
+      "strict"
+    ],
+    "daily_volume": 49951.9564271551,
+    "created_at": "2024-04-26T10:57:45.759228Z",
+    "freeze_authority": null,
+    "mint_authority": "2oFvntttTFoEejX5uRoP5NLovNjhe7fiCZhs3Td1tpYa",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-09T19:31:56Z",
+    "extensions": {
+      "coingeckoId": "pathfinders-staked-sol"
+    }
+  },
+  {
+    "address": "jucy5XJ76pHVvtPZb5TKRcGQExkwit2P5s4vY8UzmpC",
+    "name": "Juicy SOL",
+    "symbol": "jucySOL",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/5ohvXVJ7f3HxnwYGnXKdECWC3KFcU95dHu7S7x69Y1sA/logo_rev.svg",
+    "tags": [
+      "community",
+      "lst",
+      "strict",
+      "verified"
+    ],
+    "daily_volume": 25380.98075044925,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "FKDyJz5tPUy1ArAUba7ziQLbMKzaivRnHiW4FHzCSE9t",
+    "permanent_delegate": null,
+    "minted_at": "2024-01-16T14:40:51Z",
+    "extensions": {
+      "coingeckoId": "juicy-staked-sol"
+    }
+  },
+  {
+    "address": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
+    "name": "picoSOL",
+    "symbol": "picoSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/zR2ZKXpwmG4hMpqhGXlvz-B7PMs34cXxVb2gC1DmlDo",
+    "tags": [
+      "community",
+      "verified",
+      "strict",
+      "lst"
+    ],
+    "daily_volume": 22752.410172886117,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "4At8nQXanWgRvjbrVXmxMBBdfz39txWVm4SiXEoP1kGh",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-14T00:44:29Z",
+    "extensions": {
+      "coingeckoId": "pico-staked-sol"
+    }
+  },
+  {
+    "address": "eon5tgYNk5FjJUcBUcLno49t2GfpmWZDzJHeYkbh9Zo",
+    "name": "eonSOL",
+    "symbol": "eonSOL",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/Ctn1Td5TTdb6FumGxUCc8ZGiiMHQujKQYPwnV2DjaBtv/eonSOL.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 18032.49,
+    "created_at": "2024-07-30T14:26:11.581435Z",
+    "freeze_authority": null,
+    "mint_authority": "Ahhfr8dZ9hcBG9FX6295tQ4WPqHssyY1nykwLahUNnbu",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-02T00:22:53Z",
+    "extensions": {}
+  },
+  {
+    "address": "ELSoL1owwMWQ9foMsutweCsMKbTPVBD9pFqxQGidTaMC",
+    "name": "Enhanced Linkage SOL",
+    "symbol": "elSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/4q1KEew_Kqymx6rea_b-VeDX337130aPv0omKRAGPHU",
+    "tags": [
+      "lst",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 15405.208683080133,
+    "created_at": "2024-06-21T14:27:44.326605Z",
+    "freeze_authority": null,
+    "mint_authority": "H9sni3kem3TCJuFtpi9swVbT8EAigBzP2J79v7TBMr1Y",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-23T08:11:20Z",
+    "extensions": {}
+  },
+  {
+    "address": "camaK1kryp4KJ2jS1HDiZuxmK7S6dyEtr9DA7NsuAAB",
+    "name": "camaoSOL",
+    "symbol": "camaoSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/ifjpBZbaiieeDI7hIkVBpwNxaeaJxxYHzRpxJgsosf8",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 8393.904662409906,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "4J1MBDZo48T9MMvyzijVnjVTGqfkhXnEhbEseHaLkipq",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-13T07:43:37Z",
+    "extensions": {}
+  },
+  {
+    "address": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+    "name": "daoSOL Token",
+    "symbol": "daoSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/logo.png",
+    "tags": [
+      "lst",
+      "community",
+      "verified",
+      "strict"
+    ],
+    "daily_volume": 7352.715485317945,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": null,
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "daosol"
+    }
+  },
+  {
+    "address": "1pRmyZzEXsoYJAFFDPYcP5Bn5Sq2B5HeQEUDHXRrTCH",
+    "name": "MET LP Army SOL",
+    "symbol": "lpSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/XwAFWlGJAS0L0JkOw799HkRYnrU-efbZvP918pvmEmA",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 7239.21804806199,
+    "created_at": "2024-12-26T20:04:48.883379Z",
+    "freeze_authority": null,
+    "mint_authority": "9Jv3FdxEHXeHzUYNZEc8KvQGcH8SF1zAnhNfJaChuoob",
+    "permanent_delegate": null,
+    "minted_at": "2024-11-26T06:15:32Z",
+    "extensions": {}
+  },
+  {
+    "address": "fuseYvhNJbSzdDByyTCrLcogsoNwAviB1WeewhbqgFc",
+    "name": "Fuse Staked SOL",
+    "symbol": "fuseSOL",
+    "decimals": 9,
+    "logoURI": "https://fusesol.nyc3.digitaloceanspaces.com/fuseSOL.png",
+    "tags": [
+      "community",
+      "strict",
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 5848.04374855838,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "HgJtBfBVbhPWnaP1LmAeYjGTgZDdFyy63dC2fgiQfDog",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-28T15:40:54Z",
+    "extensions": {}
+  },
+  {
+    "address": "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt",
+    "name": "Edgevana Staked SOL",
+    "symbol": "edgeSOL",
+    "decimals": 9,
+    "logoURI": "https://srv.edgevana.com/img/edgesol.png",
+    "tags": [
+      "verified",
+      "community",
+      "lst",
+      "strict"
+    ],
+    "daily_volume": 5656.160248266046,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "FZEaZMmrRC3PDPFMzqooKLS2JjoyVkKNd2MkHjr7Xvyq",
+    "permanent_delegate": null,
+    "minted_at": "2024-02-09T14:53:46Z",
+    "extensions": {
+      "coingeckoId": "edgevana-staked-sol"
+    }
+  },
+  {
+    "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+    "name": "JPOOL Solana Token",
+    "symbol": "JSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/logo.svg",
+    "tags": [
+      "strict",
+      "lst",
+      "verified",
+      "community"
+    ],
+    "daily_volume": 4755.999917470195,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "HbJTxftxnXgpePCshA8FubsRj9MW4kfPscfuUfn44fnt",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "jpool"
+    }
+  },
+  {
+    "address": "xSoL18r4U1k2ALa4yF857VDZJqCKecLtty92nscre3o",
+    "name": "Shinobi Performance Pool Token",
+    "symbol": "xSHIN",
+    "decimals": 9,
+    "logoURI": "https://xshin.fi/icons/xSHIN_3d.png",
+    "tags": [
+      "community",
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 4073.59873789232,
+    "created_at": "2024-06-28T22:52:26.404202Z",
+    "freeze_authority": null,
+    "mint_authority": "EpH4ZKSeViL5qAHA9QANYVHxdmuzbUH2T79f32DmSCaM",
+    "permanent_delegate": null,
+    "minted_at": "2024-02-13T18:28:41Z",
+    "extensions": {}
+  },
+  {
+    "address": "XAnDeUmMcqFyCdef9jzpNgtZPjTj3xUMj9eXKn2reFN",
+    "name": "Xandeum SOL",
+    "symbol": "xandSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/bernieblume/XAND-meta-2024/main/xandSOL.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 3638.48940656968,
+    "created_at": "2024-10-30T04:44:36.546517Z",
+    "freeze_authority": null,
+    "mint_authority": "5uJR4QjnRPzHnt4R2FogtpbzQaUE2HKo3Z9yEYxPTi1H",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-17T17:48:33Z",
+    "extensions": {
+      "coingeckoId": "xandeum-sol"
+    }
+  },
+  {
+    "address": "pumpkinsEq8xENVZE6QgTS93EN4r9iKvNxNALS1ooyp",
+    "name": "pumpkinSOL",
+    "symbol": "pumpkinSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/bartenbach/pumpkins_pool/main/assets/img/pumpkintoken.png",
+    "tags": [
+      "lst",
+      "community",
+      "verified",
+      "strict"
+    ],
+    "daily_volume": 3491.04161378519,
+    "created_at": "2024-04-26T10:57:45.759228Z",
+    "freeze_authority": null,
+    "mint_authority": "51BsDVZKfFSphgKReCJyEHRVkrSj9827PX3L9KmryJWA",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-11T21:29:33Z",
+    "extensions": {
+      "coingeckoId": "pumpkin-staked-sol"
+    }
+  },
+  {
+    "address": "KUMAgSzADhUmwXwNiUbNHYnMBnd89u4t9obZThJ4dqg",
+    "name": "kumaSOL",
+    "symbol": "kumaSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/dBlyZZ8SRU8gbBLB_Ahil_NXCtsh67PI10mTq9qcMVA",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 3435.0334407325704,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "FZ2F6rHLcaK7GfPpyfDBGofTjfJ3BnA8wMkXbnt21riT",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-21T05:24:29Z",
+    "extensions": {}
+  },
+  {
+    "address": "suPer8CPwxoJPQ7zksGMwFvjBQhjAHwUMmPV4FVatBw",
+    "name": "Superfast Staked SOL",
+    "symbol": "superSOL",
+    "decimals": 9,
+    "logoURI": "https://superfast.org/supersollogo.png",
+    "tags": [
+      "community",
+      "strict",
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 3434.602200970759,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "3DNHyFDogmurGQsrj6g93sm9LSbenzRyF6n97osCnJi1",
+    "permanent_delegate": null,
+    "minted_at": "2024-01-16T20:39:01Z",
+    "extensions": {
+      "coingeckoId": "superfast-staked-sol"
+    }
+  },
+  {
+    "address": "stacMUJ1gnBwu5tdKB1xtSmtNu9xNqvBQXoDB8eX92n",
+    "name": "LSTache",
+    "symbol": "LSTache",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/KfCrICrXHhvfF6Mal5z-7vAQ5Zsu6dbiePcjoQ0g_9c",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 1796.8739999999998,
+    "created_at": "2024-10-13T19:13:46.024267Z",
+    "freeze_authority": null,
+    "mint_authority": "4FRxJaH6P5Z5mTMkGXezPdpUJPBA6cWrZY8ihfhaCbXw",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-08T16:57:46Z",
+    "extensions": {}
+  },
+  {
+    "address": "Lakej6n5VCagKPS3eEU77m7iRYztNp3eiUH95q7dpsW",
+    "name": "Lake SOL",
+    "symbol": "lakeSOL",
+    "decimals": 9,
+    "logoURI": null,
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 1137.4828402581902,
+    "created_at": "2025-01-07T16:55:47.128775Z",
+    "freeze_authority": null,
+    "mint_authority": "HLB6bae2VoYiqcxjZgx5UJU5QetLVQbxhCSsz26WZ4u9",
+    "permanent_delegate": null,
+    "minted_at": "2025-01-03T17:06:34Z",
+    "extensions": {}
+  },
+  {
+    "address": "towUpSkEQr5eJWrq1nMcuJ2rbwkDxNp9mKNek4VEnBG",
+    "name": "CUDIS",
+    "symbol": "cudisSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/cudisSOL/cudisSOL.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 1081.06127311613,
+    "created_at": "2024-12-13T19:17:48.888417Z",
+    "freeze_authority": null,
+    "mint_authority": "5kpFGoqZFhrTho93mgAQrMgkdSB4ruaLxHga5M6FcZPr",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T20:28:10Z",
+    "extensions": {}
+  },
+  {
+    "address": "prgnSYr57EiEMUknwPrdaUSMyd4eFpdZDVBaa1xR2jY",
+    "name": "Paragon SOL",
+    "symbol": "prgnSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/pp2uJPOuCudCDH8PTHiGqbrD1GzKXt9PddsnTdAcj-s",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 968.93026994695,
+    "created_at": "2024-10-23T17:50:54.599241Z",
+    "freeze_authority": null,
+    "mint_authority": "DwjnJy2EzduTJ19dwRGwGFdG9nE6iYaMmdzRWTBYfbcP",
+    "permanent_delegate": null,
+    "minted_at": "2024-09-25T17:43:32Z",
+    "extensions": {}
+  },
+  {
+    "address": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+    "name": "soulSOL",
+    "symbol": "soulSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/vpzWGiKensrUILB4dX4awTIoBFeLMqjnnZGjEepEq2E",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 668.3431691710899,
+    "created_at": "2024-10-23T17:50:54.599241Z",
+    "freeze_authority": null,
+    "mint_authority": "2bKmVmyqCw4LFa2sWeKpJH7Leq7MjTzfWDdWogZHPjey",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-17T10:08:18Z",
+    "extensions": {}
+  },
+  {
+    "address": "B5GgNAZQDN8vPrQ15jPrXmJxVtManHLqHogj9B9i4zSs",
+    "name": "xSOL",
+    "symbol": "xSOL",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/FfXMHMFwXLHkGZDVCgBzFFAP7eT7Jd23SzAXcUXsH8j4/xSOL.svg",
+    "tags": [
+      "verified",
+      "strict",
+      "community",
+      "lst"
+    ],
+    "daily_volume": 634.62645429858,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "6oxJvKCqAtXFCvZ7bES75JjpqARWX7fEQsv2CABdqvby",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-16T13:14:59Z",
+    "extensions": {}
+  },
+  {
+    "address": "Dicscx2kpukGBATbjgsuzdbsVRFktV19BXEHofPQwEQF",
+    "name": "dicSOL",
+    "symbol": "dicSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/OPGNXTyc77OQEGVyfwfybHOzgHd1iRJgZ2Z92AZ2iN4",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 537.52407115665,
+    "created_at": "2024-10-13T19:13:46.027616Z",
+    "freeze_authority": null,
+    "mint_authority": "JDT3agZFSAGc7ZTrz59gLJtM7VkvJ7T2VvpiHdSX3hMC",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-12T13:26:23Z",
+    "extensions": {}
+  },
+  {
+    "address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+    "name": "Cogent SOL",
+    "symbol": "cgntSOL",
+    "decimals": 9,
+    "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png",
+    "tags": [
+      "verified",
+      "strict",
+      "lst",
+      "community"
+    ],
+    "daily_volume": 503.82060155688015,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "5zycDbpcwkm2kqJLVnCqAMRQRSPtNrNLhcncyyZmWR4z",
+    "permanent_delegate": null,
+    "minted_at": null,
+    "extensions": {
+      "coingeckoId": "cogent-sol"
+    }
+  },
+  {
+    "address": "st8QujHLPsX3d6HG9uQg9kJ91jFxUgruwsb1hyYXSNd",
+    "name": "stakeSOL",
+    "symbol": "stakeSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/C2P2vlj4GZF1ZfAj5GV7B7cvpvdiz2tDEwh6hOfml_o",
+    "tags": [
+      "strict",
+      "lst",
+      "community",
+      "verified"
+    ],
+    "daily_volume": 458.22353723299994,
+    "created_at": "2024-04-26T11:00:55.121424Z",
+    "freeze_authority": null,
+    "mint_authority": "5csNBSTkMZTTkJfn9GdRPcSdM3UgoYvgrd7HPdAppDKS",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-24T15:18:09Z",
+    "extensions": {
+      "coingeckoId": "stake-city-staked-sol"
+    }
+  },
+  {
+    "address": "pWrSoLAhue6jUxUkbWgmEy5rD9VJzkFmvfTDV5KgNuu",
+    "name": "Power Staked SOL",
+    "symbol": "pwrSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/vmJI1aPZNfTTIWH7ZLFxBP1VK7ptapg1hBukoDDNPME",
+    "tags": [
+      "community",
+      "strict",
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 458.18265250923,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "3SWDH9uUc9Vt45Nb6WbnEKWePGigz6hErDgQES6tdQ8Z",
+    "permanent_delegate": null,
+    "minted_at": "2024-01-17T14:26:39Z",
+    "extensions": {
+      "coingeckoId": "power-staked-sol"
+    }
+  },
+  {
+    "address": "BANXyWgPpa519e2MtQF1ecRbKYKKDMXPF1dyBxUq9NQG",
+    "name": "banxSOL",
+    "symbol": "banxSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/3ryTeptAwpdI57CnL1tfitjnitj2s6P_A_m2RiARE7M",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 425.8983764935299,
+    "created_at": "2024-04-26T11:00:55.121424Z",
+    "freeze_authority": null,
+    "mint_authority": "2wTD2CJN3VSfV84JUexQLmhUeCbXPjKBYKFME3LWt4ue",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-19T19:06:56Z",
+    "extensions": {}
+  },
+  {
+    "address": "phaseZSfPxTDBpiVb96H4XFSD8xHeHxZre5HerehBJG",
+    "name": "Phase Labs SOL",
+    "symbol": "phaseSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/phaselabscrypto/.github/main/profile/public/phaseSOL.png",
+    "tags": [
+      "strict",
+      "community",
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 424.2538569398,
+    "created_at": "2024-04-26T10:57:45.759228Z",
+    "freeze_authority": null,
+    "mint_authority": "9HYjrCF5evTobLmay372kpUWSNTrtmDU2NkQtqjdnHKa",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-15T18:00:23Z",
+    "extensions": {
+      "coingeckoId": "phase-labs-staked-sol"
+    }
+  },
+  {
+    "address": "haSo1Vz5aTsqEnz8nisfnEsipvbAAWpgzRDh2WhhMEh",
+    "name": "haSOL",
+    "symbol": "haSOL",
+    "decimals": 9,
+    "logoURI": "https://sgp1.vultrobjects.com/hanabi-staking-assets/firework_solana_512px.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 350.21093247184,
+    "created_at": "2024-06-06T13:38:54.800604Z",
+    "freeze_authority": null,
+    "mint_authority": "B7oQQtF7Wdzp7acSqpp5KWWigpywipBN84NVeosf7CxA",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-31T11:22:56Z",
+    "extensions": {}
+  },
+  {
+    "address": "WinDfAPoDk4P8D7eMkCVzY3Ged5vXtvT32XkWVBYGU8",
+    "name": "Windfall SOL",
+    "symbol": "windSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/mwRfH9Oc_LtJfgRVil49jbnzmWlJ9PTYEjO36pHMh3o",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 252.2207754458,
+    "created_at": "2024-12-10T20:59:06.336164Z",
+    "freeze_authority": null,
+    "mint_authority": "CQRkqnVvLfscs1g5MUczYRdA3HBMQd3k7qtfFTd6XYc1",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T07:29:02Z",
+    "extensions": {}
+  },
+  {
+    "address": "1unatWhTyNHUBES9FCjZ5m2jmopTTs8RMk7bzzdvnZ8",
+    "name": "LunaSOL",
+    "symbol": "LUNA",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/H7EXM2jG5gT-ejU18VLNj9NJe3ev-bKo56RFvMS6K1c",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 247.8205205952,
+    "created_at": "2024-12-10T20:59:06.336164Z",
+    "freeze_authority": null,
+    "mint_authority": "BoxKB3pQd9JxSHtkCfWuaxSjEmb1y9nYfjqpV4iwnwP6",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-03T22:43:09Z",
+    "extensions": {}
+  },
+  {
+    "address": "F41tY6PKNPtaZ6gytUBuyxkcpY4zroDr83FJsRuShKCL",
+    "name": "JoeTakayama",
+    "symbol": "joeSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/joeSOL/joeSOL.jpg",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 205.02397450982,
+    "created_at": "2024-12-13T19:17:48.968287Z",
+    "freeze_authority": null,
+    "mint_authority": "5VofEUFou1NUWc5V7jM7ZgNAG7mcDyVhoxF9zpTih6X5",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T20:27:43Z",
+    "extensions": {}
+  },
+  {
+    "address": "Cxse3YzRWNgAFtnhwXnve5HG71PWrYH8xM2bNo9JLGYp",
+    "name": "zerebroSOL",
+    "symbol": "zerebroSOL",
+    "decimals": 9,
+    "logoURI": "https://blormverse.mypinata.cloud/ipfs/QmU1F1AiFc4LyL9jbEn1GsoFVHo24zuiCWkGjje3Ge5Zic",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 163.13567166215,
+    "created_at": "2024-11-15T09:46:13.661401Z",
+    "freeze_authority": null,
+    "mint_authority": "HQcb93QUhDbckYWmLYGGudNjdvfjk2p9WEJGsR3PGkSX",
+    "permanent_delegate": null,
+    "minted_at": "2024-11-02T01:48:26Z",
+    "extensions": {}
+  },
+  {
+    "address": "Zippybh3S5xYYam2nvL6hVJKz1got6ShgV4DyD1XQYF",
+    "name": "Zippy Staked SOL",
+    "symbol": "zippySOL",
+    "decimals": 9,
+    "logoURI": "https://www.zippystake.org/mint.png",
+    "tags": [
+      "community",
+      "verified",
+      "strict",
+      "lst"
+    ],
+    "daily_volume": 81.81586705539999,
+    "created_at": "2024-04-26T10:56:58.893768Z",
+    "freeze_authority": null,
+    "mint_authority": "F15nfVkJFAa3H4BaHEb6hQBnmiJZwPYioDiE1yxbc5y4",
+    "permanent_delegate": null,
+    "minted_at": "2023-12-27T15:47:49Z",
+    "extensions": {
+      "coingeckoId": "zippy-staked-sol"
+    }
+  },
+  {
+    "address": "Agi84n7Hfw9sQMah9sumHU6Jyjsc6Uw2WjehSFG92qMG",
+    "name": "DKSol",
+    "symbol": "DKS",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/8eNEyWZXrqOxuNNMdq63QIySgX7rPkwgOFYElz243MY",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 72.40646494654001,
+    "created_at": "2024-11-01T16:49:29.901500Z",
+    "freeze_authority": null,
+    "mint_authority": "9p66eSpzjupmw9unX4tVYg2ftjuXkEGNFjqSBG1mVPMa",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-30T13:37:49Z",
+    "extensions": {}
+  },
+  {
+    "address": "7ij4w5R8dyZtzc7UDXQJefghkPPdrCKQS7t1Nj6XdDX1",
+    "name": "katexbt staked SOL",
+    "symbol": "kateSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/kateSOL/kateSOL.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 27.67532203229,
+    "created_at": "2024-12-13T19:17:48.985516Z",
+    "freeze_authority": null,
+    "mint_authority": "5CVW3Ao9PjcW5NwLims7L5fG3JJz8e8td9iyiJNNhVJj",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T20:22:51Z",
+    "extensions": {}
+  },
+  {
+    "address": "D1gittVxgtszzY4fMwiTfM4Hp7uL5Tdi1S9LYaepAUUm",
+    "name": "digitSOL",
+    "symbol": "digitSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/EU5JKGGQEQ3Rwj-LrFJdh7GhSBFoQ4TYvoDnmdZ0FcE",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": 20.064632661759997,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "E1dUyGssrE56nMz1pjpbXxgPGVRsKBxchgXZYmSJFJMw",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-27T10:07:20Z",
+    "extensions": {}
+  },
+  {
+    "address": "uPtSoL2qszk4SuPHNE2zqk1gDtqCq21ZE1yZCqvFTqq",
+    "name": "UpRock SOL",
+    "symbol": "uptSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/uprockcom/upt-sol/main/logo.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 13.87459200595,
+    "created_at": "2024-07-30T14:26:11.581435Z",
+    "freeze_authority": null,
+    "mint_authority": "9X24PaZEb7oR5VDupKLTyMm9YWP1UmptCDfmgNH9NVZ8",
+    "permanent_delegate": null,
+    "minted_at": "2024-07-24T07:06:07Z",
+    "extensions": {}
+  },
+  {
+    "address": "VoRLDaAR21dSQF6ofGEHYmHQAdPnJrTLNsQQdm7UHfB",
+    "name": "vorldSOL",
+    "symbol": "vorldSOL",
+    "decimals": 9,
+    "logoURI": "https://amethyst-efficient-dingo-122.mypinata.cloud/ipfs/bafybeiboaqe24sonmqzwpurmk7dchd465lfbrpxvpejyvu5wfs7jr7zbpa",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 5.74332,
+    "created_at": "2025-01-16T18:39:06.791812Z",
+    "freeze_authority": null,
+    "mint_authority": "71c664JxYv7SZ1PatgA2amV1ZNBHhEdP4RXne9KtvU1a",
+    "permanent_delegate": null,
+    "minted_at": "2025-01-01T12:53:32Z",
+    "extensions": {}
+  },
+  {
+    "address": "WensoLXxZJnev2YvihHFchn1dVVFnFLYvgomXWvvwRu",
+    "name": "Wen Staked SOL",
+    "symbol": "WenSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/PC0rwwND3JVNov_Y3Y5CY-Z0CF9sauZ2RkF_N0IzuzQ",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": 3.01623136321,
+    "created_at": "2024-05-01T21:06:48.009175Z",
+    "freeze_authority": null,
+    "mint_authority": "7bfnwncXe7R34K7BSggjYEA6kCuwvpjjtKuCY4hkhpD2",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-25T01:39:26Z",
+    "extensions": {}
+  },
+  {
+    "address": "BgYgFYq4A9a2o5S1QbWkmYVFBh7LBQL8YvugdhieFg38",
+    "name": "Juicing Jupiter SOL",
+    "symbol": "jjupSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/vmJI1aPZNfTTIWH7ZLFxBP1VK7ptapg1hBukoDDNPME",
+    "tags": [
+      "deprecated",
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-04-26T11:00:55.121424Z",
+    "freeze_authority": null,
+    "mint_authority": "EjYFnQcNDmfYQqT5B2R2239i781D5wNXrqA2qx2gYJo1",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-09T03:31:19Z",
+    "extensions": {}
+  },
+  {
+    "address": "iceSdwqztAQFuH6En49HWwMxwthKMnGzLFQcMN3Bqhj",
+    "name": "iceSOL",
+    "symbol": "iceSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/vIJdshKQBC9cE8V190WgRhYqdjb8HhUJAMmP69gvAFI",
+    "tags": [
+      "lst",
+      "community",
+      "verified",
+      "strict"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-04-26T11:00:55.121424Z",
+    "freeze_authority": null,
+    "mint_authority": "57RrmRqAyha3jT6Z3RZom6EfwRm1q61Rw4Fk9hj4345E",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-18T20:00:59Z",
+    "extensions": {}
+  },
+  {
+    "address": "fpSoL8EJ7UA5yJxFKWk1MFiWi35w8CbH36G5B9d7DsV",
+    "name": "FP SOL",
+    "symbol": "fpSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/fpSOL/fpSOL.jpg",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-01T21:06:48.009175Z",
+    "freeze_authority": null,
+    "mint_authority": "CVVUc2Rgj3PeXeepNjxEBHqEfd2nNMdavXeWWx7DP2Yq",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-26T18:59:22Z",
+    "extensions": {}
+  },
+  {
+    "address": "Fi5GayacZzUrfaCRCJtBz2vSYkGF56xjgCceZx5SbXwq",
+    "name": "wifSOL",
+    "symbol": "wifSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/C9ISQflnq1MPpAFbN9D3MG4yhCPST1aGz97gv9zCC70",
+    "tags": [
+      "strict",
+      "verified",
+      "community",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-01T21:06:48.009175Z",
+    "freeze_authority": null,
+    "mint_authority": "7STPYcDtmhgsg2XbyB7PwnNXwWkWKxc8gzycHmT32PXr",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-26T05:36:04Z",
+    "extensions": {}
+  },
+  {
+    "address": "ThUGsoLWtoTCfb24AmQTKDVjTTUBbNrUrozupJeyPsy",
+    "name": "ThugBirdz Staked SOL",
+    "symbol": "thugSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/lFp33D_hlhWgsS92TQxGkSN6pJlqA5CGqiSNy0F0_dk",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-01T21:06:48.009175Z",
+    "freeze_authority": null,
+    "mint_authority": "BAUL1gQ6YkM8eoC7VXyHwbyHGproLJZpSpbo6wywmYe",
+    "permanent_delegate": null,
+    "minted_at": "2024-03-29T01:47:09Z",
+    "extensions": {}
+  },
+  {
+    "address": "fmSoLKzBY6h9b5RQ67UVs7xE3Ym6mx2ChpPxHdoaVho",
+    "name": "fmSOL",
+    "symbol": "fmSOL",
+    "decimals": 9,
+    "logoURI": "https://bafybeiefm3rrcglj2pithpllphuqataudxwepdt66jlmted3mfhybhvg34.ipfs.w3s.link/128x128.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "Dznab3DUrWHPGdCjToTGTgQgaHdxYaRuGgG9LTPTcE7N",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-20T14:03:12Z",
+    "extensions": {}
+  },
+  {
+    "address": "2LuXDpkn7ZWMqufwgUv7ZisggGkSE5FpeHCHBsRgLg3m",
+    "name": "dainSOL",
+    "symbol": "dainSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/mIGq2RPhhypZ2yVI0QK5BMvpDRPxN3ei2_8KxA-dh3s",
+    "tags": [
+      "strict",
+      "community",
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "AxZbpxUvfVcgT9V5AyvMbZGMicJD6rHmcKfaq3iLCkTn",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-22T17:07:51Z",
+    "extensions": {}
+  },
+  {
+    "address": "DLGToUUnqy9hXxpJTm5VaiBKqnw9Zt1qzvrpwKwUmuuZ",
+    "name": "Delegate Liquid Staking Token",
+    "symbol": "dlgtSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/Sd_JW2vRM79deSN_BJgLbXN_LZjru4qbnO-uG_MEsHs",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "DbTSPoidRbbjpUm5WyecaytURmpNv1WRqhGcjsPdS2o9",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-29T14:21:10Z",
+    "extensions": {}
+  },
+  {
+    "address": "DUAL6T9pATmQUFPYmrWq2BkkGdRxLtERySGScYmbHMER",
+    "name": "Dual SOL",
+    "symbol": "dualSOL",
+    "decimals": 9,
+    "logoURI": "https://www.dual.finance/images/token-logos/dualSOL.svg",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "D9JhMGji95NwKhfwiLxThjqLsBJ6V98gpEzMz8s78Set",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-30T01:53:12Z",
+    "extensions": {}
+  },
+  {
+    "address": "HausGKcq9G9zM3azwNmgZyzUvYeeqR8h8663PmZpxuDj",
+    "name": "hausSOL",
+    "symbol": "hausSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/pAZAVnCDn0cnBSSxzjO8Cja7lfw0HDnrNJjeMgXIW1w",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "AqynZHwE3qEcRho7Uu74c3YyW1nxyk7jMoBVevvGWv6Q",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-05T20:45:14Z",
+    "extensions": {}
+  },
+  {
+    "address": "nordEhq2BnR6weCyrdezNVk7TwC3Ej94znPZxdBnfLM",
+    "name": "Nordic Staked SOL",
+    "symbol": "nordSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/K151E1-jIi9nT5Vaf02ibUP7_XnO_GWuFi63-VYvwRI",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "AxH3gxpEsXku8n2o4mYQX7obifRUgUWrTyrsc7Abmg32",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-02T08:12:41Z",
+    "extensions": {}
+  },
+  {
+    "address": "PoLaRbHgtHnmeSohWQN83LkwA4xnQt91VUqL5hx5VTc",
+    "name": "polarSOL",
+    "symbol": "polarSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/UrbDD_0SPYXHAMD7-0pzErroi62ZHbub1VkBokrhvqM",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "7cbsCAuHagZq7mx3EmNpQWSoxkCjGfxdGd7d19DntRVb",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-19T21:46:55Z",
+    "extensions": {}
+  },
+  {
+    "address": "RSoLp7kddnNwvvvaz4b1isQy8vcqdSwXjgm1wXaMhD8",
+    "name": "Reflect Staked Solana",
+    "symbol": "rSOL",
+    "decimals": 9,
+    "logoURI": "https://akrd.net/wPiL1Dq1mnTn3d8V2bAOXuaWA5UXy4tWC4mHbzM8RyQ",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "5BKPEg79DJytryo7tUvBm8s6zjv5wSpVxTuSd8Xd3M83",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-01T13:40:28Z",
+    "extensions": {}
+  },
+  {
+    "address": "spkyB5SzVaz2x3nNzSBuhpLSEF8otbRDbufc73fuLXg",
+    "name": "Hedgehog Spiky SOL",
+    "symbol": "spikySOL",
+    "decimals": 9,
+    "logoURI": null,
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "5dtGPn1NrSNF5PfHQ1D79GCFjd8ERuN338RktSm5FMAP",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-14T21:14:58Z",
+    "extensions": {}
+  },
+  {
+    "address": "stkrHcjQGytQggswj3tCF77yriaJYYhrRxisRqe9AiZ",
+    "name": "STAKR.space SOL",
+    "symbol": "stakrSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/G47rsX4E-c8K52zGpqXgRtH9fQLoxkoAbNiT90HpN3k",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-05-30T11:25:12.525704Z",
+    "freeze_authority": null,
+    "mint_authority": "8hYPhXDCDczXLhWZ6i5WNUjmS5kav51eV4RZ2EpseG5V",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-16T10:42:22Z",
+    "extensions": {}
+  },
+  {
+    "address": "3bfv2scCdbvumVBc3Sar5QhYXx7Ecsi8EFF2akjxe329",
+    "name": "digitalSOL",
+    "symbol": "digitalSOL",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/3y9qiDjVtv8xcWsgad8zULmsqg8PLusetN55PdqtLhyr/tokenlogo3.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-06-02T16:28:30.209220Z",
+    "freeze_authority": null,
+    "mint_authority": "5PRaMuxEBsRr579yDZYcxsds8Lc1WSJD8ugzx6iP3dK",
+    "permanent_delegate": null,
+    "minted_at": "2024-04-02T17:57:12Z",
+    "extensions": {}
+  },
+  {
+    "address": "AxM7a5HNmRNHbND6h5ZMSsU8n3NLa1tskoN6m5mAgVvL",
+    "name": "BurnDAO",
+    "symbol": "BurnSOL",
+    "decimals": 9,
+    "logoURI": "https://blue-selected-otter-455.mypinata.cloud/ipfs/QmUezUvUBny2XhzGm9BiZ7PQrbWA1R8szaTMcYMrqWXNKX",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-06-06T13:38:54.800604Z",
+    "freeze_authority": null,
+    "mint_authority": "66EXYBt7oPsx4rXXHHzxBQxwWehaAEDdZnwaQu7uR2sY",
+    "permanent_delegate": null,
+    "minted_at": "2024-05-24T19:07:16Z",
+    "extensions": {}
+  },
+  {
+    "address": "MLLWWq9TLHK3oQznWqwPyqD7kH4LXTHSKXK4yLz7LjD",
+    "name": "mallowSOL",
+    "symbol": "mallowSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/b0JcLRjgOigociJMInQzY9eVsFTwzV0OUdbpJ_LZ9xo",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-06-10T05:35:21.182017Z",
+    "freeze_authority": null,
+    "mint_authority": "hHt4Yg7FDj2JWQ5ExMMu1Btdahx2w5rmPKsvoXX3PtJ",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-06T17:40:51Z",
+    "extensions": {}
+  },
+  {
+    "address": "LSoLi4A4Pk4i8DPFYcfHziRdEbH9otvSJcSrkMVq99c",
+    "name": "Lifinity Staked SOL",
+    "symbol": "lifSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/L1EMXV4iQpoU6uUJzB3RxBkJ8Yhmsiqt5b1ju_Hz1Jg.svg",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-06-10T05:35:21.182017Z",
+    "freeze_authority": null,
+    "mint_authority": "9Ydzb2u5GUnwWHw1xwaVNZcZeaUrqHe6LmeisbML1KQ5",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-09T12:54:05Z",
+    "extensions": {}
+  },
+  {
+    "address": "MangmsBgFqJhW4cLUR9LxfVgMboY1xAoP8UUBiWwwuY",
+    "name": "Mango SOL",
+    "symbol": "mangoSOL",
+    "decimals": 9,
+    "logoURI": "https://mango.markets/images/tokens/mangoSOL.svg",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-06-11T13:53:14.700676Z",
+    "freeze_authority": null,
+    "mint_authority": "BKi84JsPEnXT4UBTZtET5h8Uf2y3qLWAnyAZXtMVNK1o",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-08T16:53:30Z",
+    "extensions": {}
+  },
+  {
+    "address": "apySoLhdVa6QbvNyEjXCbET3FdUm9cCdEvYyjCU7icM",
+    "name": "apySOL",
+    "symbol": "apySOL",
+    "decimals": 9,
+    "logoURI": "https://apysol.io/img.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-06-14T15:52:09.521117Z",
+    "freeze_authority": null,
+    "mint_authority": "3LXLNjGGS8XhPmco5vhScyW8cb3TVPmpF7pr7k7ZfCoW",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-11T19:44:49Z",
+    "extensions": {}
+  },
+  {
+    "address": "SnKAf8aNjeYz8pY8itYn3VxFhT6Q8WNdPwy17s9USgC",
+    "name": "Pine Staked SOL",
+    "symbol": "pineSOL",
+    "decimals": 9,
+    "logoURI": null,
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-07-30T14:26:11.581435Z",
+    "freeze_authority": null,
+    "mint_authority": "9wdjKcLu4V1VNzYytnSdfub4CGRBhKpM4aZpGUdcAgxv",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-02T21:52:54Z",
+    "extensions": {}
+  },
+  {
+    "address": "aeroXvCT6tjGVNyTvZy86tFDwE4sYsKCh7FbNDcrcxF",
+    "name": "aeroSOL",
+    "symbol": "aeroSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/phaselabscrypto/.github/main/profile/public/aeroSOL.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-07-30T14:26:11.581435Z",
+    "freeze_authority": null,
+    "mint_authority": "AKJt3m2xJ6ANda9adBGqb5BMrheKJSwxyCfYkLuZNmjn",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-09T15:33:08Z",
+    "extensions": {}
+  },
+  {
+    "address": "uSo1ynGWS3qc2B1nN2MmEHN5cYaNbT7vJp87LtgkpV8",
+    "name": "Urban Staked SOL",
+    "symbol": "uSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/hrYI439t97ffLMJTWzAGc2qJApoAunr-Dw0Q86IxNbE",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-07-30T14:26:11.581435Z",
+    "freeze_authority": null,
+    "mint_authority": "GMw5iSABjXdHqz1JaDjm249sNMsUJfpKMS55hfMtFcqT",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-18T11:05:54Z",
+    "extensions": {}
+  },
+  {
+    "address": "gangqfNY8fA7eQY3tHyjrevxHCLnhKRrLGRwUMBR4y6",
+    "name": "lotusSOL",
+    "symbol": "lotusSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/G9bkE8AlT7NBw0E6sBKtPziO6toOhI5Y6jIzU27klec",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-07-30T14:26:11.581435Z",
+    "freeze_authority": null,
+    "mint_authority": "6iKy6m3xu2ACMAzxWW66bPbgb71D1aPH46FbdAhV8io8",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-21T03:16:40Z",
+    "extensions": {}
+  },
+  {
+    "address": "gSvP9zBJ33pX7W2finzAYJZp6Q9ipNAQ19xU9PrCirz",
+    "name": "Guardian Staked SOL",
+    "symbol": "gS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/Guardian-Validator/gS/main/gS.svg",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-07-30T14:26:11.581435Z",
+    "freeze_authority": null,
+    "mint_authority": "HEyY7sTzfFAPjf3eFsDP4wKx1NCNoGvvPxKBECT4ijgn",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-30T21:52:49Z",
+    "extensions": {}
+  },
+  {
+    "address": "9zecJ6ryY3PXfW1wTd1Nz1GR9hzWhMYw62KDbvSyEJAj",
+    "name": "Uwu Staked SOL",
+    "symbol": "uwuSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/fLPUZ2PGTDo5e8sLBHGPlq_Hwdgnmt9nY3lyfCGYGMg",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-08-30T03:22:10.264083Z",
+    "freeze_authority": null,
+    "mint_authority": "BCnhgdfcgg5aG2a9vAVfnW65Unxt7Qj3YnDyCS4AHfqX",
+    "permanent_delegate": null,
+    "minted_at": "2024-07-31T14:10:18Z",
+    "extensions": {}
+  },
+  {
+    "address": "43CXsrQV7WyMvBsUiiZQMNU5Sdp28Jy61YMtx4J3RT7T",
+    "name": "Flojo Staked SOL",
+    "symbol": "flojoSOL",
+    "decimals": 9,
+    "logoURI": "https://ipfs.filebase.io/ipfs/QmZULAmgP19RSGfGiQSm5AvHusTsASp6CWhBTQTfbp9aMm",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-09-12T11:13:42.657787Z",
+    "freeze_authority": null,
+    "mint_authority": "Fp2CDREF68AS9temDsY1XgvmLHmWTYKd595CqAdh2Fhr",
+    "permanent_delegate": null,
+    "minted_at": "2024-09-08T10:28:12Z",
+    "extensions": {}
+  },
+  {
+    "address": "rug3uop5ibttn6FoQe5WLiZ1cW6wTUymnSECB6GXvta",
+    "name": "Rug City SOL",
+    "symbol": "rugSOL",
+    "decimals": 9,
+    "logoURI": "https://www.rugcity.xyz/ruglogo.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-09-14T09:43:45.012181Z",
+    "freeze_authority": null,
+    "mint_authority": "HpDMMFGaFuE4Z4ghbGPxLDV8ZXEvQf8NtN7bbKc64Wqn",
+    "permanent_delegate": null,
+    "minted_at": "2024-09-13T13:20:21Z",
+    "extensions": {}
+  },
+  {
+    "address": "HEALfPnLU31roNrnhB8bHWQVszMMAKro4KJRrnkQyVpZ",
+    "name": "healthSOL",
+    "symbol": "healthSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/wpNG0yio0JzRcvxmN-mfUu1sfCnwF9NLo6OoZtijcpA",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-09-27T11:45:18.187101Z",
+    "freeze_authority": null,
+    "mint_authority": "84WcERTbzhHscRWWsm7Xx5vSUQn19nLmQKcWm5VEpnH4",
+    "permanent_delegate": null,
+    "minted_at": "2024-09-27T06:10:38Z",
+    "extensions": {}
+  },
+  {
+    "address": "envSBKVtPgw9prFxQPkUTyPuJxRYAjFWTgDHZ9WCohi",
+    "name": "envbest SOL",
+    "symbol": "envSOL",
+    "decimals": 9,
+    "logoURI": "https://shdw-drive.genesysgo.net/GvFi1q8i9xDCKs66pgeNW4T6UvxqMwkdyLABMDVxpAhd/envSOL.svg",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-10-23T17:50:54.599241Z",
+    "freeze_authority": null,
+    "mint_authority": "4WbEJTnREi2b3vN4dLriCtZePN8SSW5Dq46G6WiTcji3",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-19T04:45:55Z",
+    "extensions": {}
+  },
+  {
+    "address": "khSoLqPRftqqDirah8NxBd9VZYfMJyPm3Xq5nXuLCyG",
+    "name": "KHAI Staked SOL",
+    "symbol": "khSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/VVhWwfDfrBKfYflL-6p4hujd7vv_mY7tIVr9QgquAeg",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-10-23T17:50:54.599241Z",
+    "freeze_authority": null,
+    "mint_authority": "HejVhjiJY47HPfVNZ3JpqKpjwaF7eBTjPCdAR4sgGijX",
+    "permanent_delegate": null,
+    "minted_at": "2024-09-18T11:35:39Z",
+    "extensions": {}
+  },
+  {
+    "address": "aepLFer6JQBNmKwa5a87cEc2NpkyXfEQvxwTByZeGWs",
+    "name": "AEP Life Form Staked SOL",
+    "symbol": "alfSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/hM3vFLQYulf21ti61MR-5lZcq2a81H4VBirO5dnl63c",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-11-01T16:49:29.857084Z",
+    "freeze_authority": null,
+    "mint_authority": "6Ri5EDyVUmzwePnsJYXVKP7oquDoViidiWodyyqagoZg",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-12T15:59:30Z",
+    "extensions": {}
+  },
+  {
+    "address": "Ra1so1sTkvX3PorAM9ewqrsUMz9sPSbfFZ5oZUjN4oc",
+    "name": "Rakurai Staked SOL",
+    "symbol": "raiSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/rakurai-io/token-metadata/master/assets/RaiSOL-Logo.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-11-01T16:49:29.916860Z",
+    "freeze_authority": null,
+    "mint_authority": "5U6ar3a2CQMRhu5d5xBA9E7Gi6xqx45wrXx38vKjU3L9",
+    "permanent_delegate": null,
+    "minted_at": "2024-06-26T03:34:03Z",
+    "extensions": {}
+  },
+  {
+    "address": "rad8NdseJYbjJUFLsv5SuBU9g29N3m4SyYndSbwoKH3",
+    "name": "radSOL",
+    "symbol": "RAD",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/uMrkyZbMNlUsqUdLf7ovBX7WTqX9uSXdHgtBKfV6638",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-11-15T09:46:13.716191Z",
+    "freeze_authority": null,
+    "mint_authority": "AroCaG2uDCfsKiggRWXCN2CDcKNwgrtZGcpDcLRyd3ed",
+    "permanent_delegate": null,
+    "minted_at": "2024-10-28T22:30:51Z",
+    "extensions": {}
+  },
+  {
+    "address": "yontaGPyo7eLjKfAhW4eXU3L1adKbthqRHx9MsJCzvg",
+    "name": "Yonta Labs Staked SOL",
+    "symbol": "yontaSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sovereign-sol/sources/refs/heads/main/YontaSOLogo.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-11-15T09:46:13.753836Z",
+    "freeze_authority": null,
+    "mint_authority": "5M1L2SzLNX6EjXsix8zNfZ4agnk3YoimkXWMndejmet5",
+    "permanent_delegate": null,
+    "minted_at": "2024-11-01T17:39:34Z",
+    "extensions": {}
+  },
+  {
+    "address": "pSoLt7vmFJWnEyYxUACPRwJh4X2cfrMgYc2iZiJTwii",
+    "name": "puffSOL",
+    "symbol": "puffSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/LtuuQt4BTyNtK1YwekKzi-4wYrrnzZ5exfK4yq0gV5s",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-11-15T09:46:13.805891Z",
+    "freeze_authority": null,
+    "mint_authority": "4hbYiDXmCJXSCRPSENGG7grV4GKZRBpNn1HndBqpMMSk",
+    "permanent_delegate": null,
+    "minted_at": "2024-11-14T21:51:59Z",
+    "extensions": {}
+  },
+  {
+    "address": "RDLGTw8UcSjpPkuu2u8AgEfPJk95DjcnrgPEyRyVFd6",
+    "name": "Redelegate SOL",
+    "symbol": "rdlgtSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/rlbozK9IaydrLJ3H5zNBDmgr3yl3CS4P0kPRetidcBo",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-11-28T21:59:11.229719Z",
+    "freeze_authority": null,
+    "mint_authority": "BoTyh5ptDLbZCbr8yyHkxiwCF3oCkc4477vSc4Wrtujg",
+    "permanent_delegate": null,
+    "minted_at": "2024-11-28T04:08:55Z",
+    "extensions": {}
+  },
+  {
+    "address": "DrYLDtGzip1JzogBqcPwHRWpifczYDexpc9d9wnUv5M7",
+    "name": "mvtSOL",
+    "symbol": "mvtSOL",
+    "decimals": 9,
+    "logoURI": null,
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-03T18:39:43.537706Z",
+    "freeze_authority": null,
+    "mint_authority": "EHMmb9wbc2MwvrQoAK99h4SwKX1839Tj4RjuT7hpo3fC",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-03T17:50:15Z",
+    "extensions": {}
+  },
+  {
+    "address": "jag58eRBC1c88LaAsRPspTMvoKJPbnzw9p9fREzHqyV",
+    "name": "JagPool Staked SOL",
+    "symbol": "jagSOL",
+    "decimals": 9,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://q3agxe7pwafhxddts7blxjzeiavc2thugluje2vlhqlwwyjoph6a.arweave.net/hsBrk--wCnuMc5fCu6ckQCotTPQy6JJqqzwXa2Euefw",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-05T13:01:20.808031Z",
+    "freeze_authority": null,
+    "mint_authority": "Hodkwm8xf43JzRuKNYPGnYJ7V9cXZ7LJGNy96TWQiSGN",
+    "permanent_delegate": null,
+    "minted_at": "2024-11-24T16:55:51Z",
+    "extensions": {}
+  },
+  {
+    "address": "sh4rkTurELZMx6YZgoPyHoa2JADwpEVk1RZgzae1p3b",
+    "name": "SharkSOL",
+    "symbol": "SharkSOL",
+    "decimals": 9,
+    "logoURI": "https://quicknode.quicknode-ipfs.com/ipfs/QmPtNPLWqHiKMdR5JdNyvCBxw1o7keTTrKQZWGsrDu83ak",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-10T20:59:06.336164Z",
+    "freeze_authority": null,
+    "mint_authority": "uFyGboCx9JJAaY1ojGPccwNFrTpqBgJqN8oubxwtHWZ",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-07T15:32:49Z",
+    "extensions": {}
+  },
+  {
+    "address": "dedCwbAVs8MRxHphTecR3cCDFYhMtBpw61xT9zkjFFx",
+    "name": "DEDsol",
+    "symbol": "DED",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/qC9C2VAvXsGuDxhUxdxOVp6491kw6aPTkjMzWQpZpX4",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-10T20:59:06.336164Z",
+    "freeze_authority": null,
+    "mint_authority": "BQXDa4DHjHsLNGnE7JhTvhoCuy9Gjzasofxa8QTchYRV",
+    "permanent_delegate": null,
+    "minted_at": "2024-11-19T23:02:46Z",
+    "extensions": {}
+  },
+  {
+    "address": "6VUBrNm21NPk4TcynRiUk4e8NS4cePFuC7cYMMB3VFsh",
+    "name": "ashenSOL",
+    "symbol": "ashenSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/ashenSOL/ashenSOL.jpg",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:48.854164Z",
+    "freeze_authority": null,
+    "mint_authority": "BZDfx2pNoVw9zRqpP19bv19EayBLfe2wNLZfFK6Cz8pt",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-06T07:54:33Z",
+    "extensions": {}
+  },
+  {
+    "address": "6uLQAevbHZofRWgfCsFC7tnfiRLqUG15TRxWHWxctih6",
+    "name": "coletaSOL",
+    "symbol": "coletaSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/coletaSOL/coletaSOL.jpg",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:48.870768Z",
+    "freeze_authority": null,
+    "mint_authority": "8tR9T5FY9qAeBhYkgLwnUdpsnKS3yCtgA5YhE4QS6q7v",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-06T09:24:35Z",
+    "extensions": {}
+  },
+  {
+    "address": "4NC3MK9VeCLEjTXjxVrbKbWLzxf7pK3CjBVjENSzYmPa",
+    "name": "greythornSOL",
+    "symbol": "gtfSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/gtfSOL/gtfSOL.jpg",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:48.919385Z",
+    "freeze_authority": null,
+    "mint_authority": "AvBDRcpBPXwQ7Nh2wdJxhbCYKzrpUofhJ8pibC15RXoS",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-10T19:24:35Z",
+    "extensions": {}
+  },
+  {
+    "address": "49SwjGvnLifeGGe5chWG5REyVVtfVJyesR6MVpFRG1QJ",
+    "name": "gumshoe Staked SOL",
+    "symbol": "gumSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/gumSOL/gumSOL.jpg",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:48.935216Z",
+    "freeze_authority": null,
+    "mint_authority": "Gzr3jLjuGgjbMQi7Uan5jrUzrjWvZd54Lb4ftnhcQu8A",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T20:27:53Z",
+    "extensions": {}
+  },
+  {
+    "address": "inteLftJN2MRpjtV9m2uvexScmMBw5Y65Nn9SdWNPvk",
+    "name": "intelSOL",
+    "symbol": "intelSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/intelSOL/intelSOL.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:48.950734Z",
+    "freeze_authority": null,
+    "mint_authority": "7F7CwNxpsjk46bNrjpw9hveMHKZc1kT46Hr3icGJF7g8",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T21:29:34Z",
+    "extensions": {}
+  },
+  {
+    "address": "ompoJidA8pPVdBAdMpA5wMaZ7BsuzpcoTW7dkTNXREe",
+    "name": "ompoArt",
+    "symbol": "ompoSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/ompoSOL/ompoSOL.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:49.003128Z",
+    "freeze_authority": null,
+    "mint_authority": "6kYmNboJjSrys5LmjbgFySxwnyisjpLmg9T1oDeASbx7",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-10T19:24:14Z",
+    "extensions": {}
+  },
+  {
+    "address": "sa1bpnBbdtXEZ6bLRUzgNqfVAMrvtr7MivjxjAtRyie",
+    "name": "Metasal",
+    "symbol": "salSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/salSOL/salSOL.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:49.019685Z",
+    "freeze_authority": null,
+    "mint_authority": "4mzrBLTV1xCZM5PcvBp78caBP2T6BQNpsTKQmZAWBnbW",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T21:42:56Z",
+    "extensions": {}
+  },
+  {
+    "address": "stazzQUTcccMALGVUKCFRe4novHsh7eYaUpFNHuRvAf",
+    "name": "Stazzy Staked SOL",
+    "symbol": "stazzSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/stazzSOL/stazzSOL.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:49.036099Z",
+    "freeze_authority": null,
+    "mint_authority": "BTnAmxeEKQUKMdKSDNCzhriUAddXny95bjuqSnmrSx6G",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T21:42:32Z",
+    "extensions": {}
+  },
+  {
+    "address": "7tRHAHTjDaEMBSwB2vZMfRY5hDHXDNpuDoJDsaYJ68BL",
+    "name": "taxSOL",
+    "symbol": "taxSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/taxSOL/taxSOL.jpg",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:49.052659Z",
+    "freeze_authority": null,
+    "mint_authority": "D62EBDqhdqUexqGbhyBvWGWGfqSNT8Cev9JYqW871Ryi",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T20:22:39Z",
+    "extensions": {}
+  },
+  {
+    "address": "taiPPc8Cg7vbBr8tEwpWA6Z4DwTQ3fLpfnVG4sBXrJE",
+    "name": "tainakerSOL",
+    "symbol": "tnkrSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/tnkrSOL/tnkrSOL.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-13T19:17:49.079375Z",
+    "freeze_authority": null,
+    "mint_authority": "EnyvfuWJBNbqXCPuyXMrdP78t9SJtq7rU9niwNcU7ir6",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-08T21:42:04Z",
+    "extensions": {}
+  },
+  {
+    "address": "esprDDGBNVg3pJM8EQtCsVwcUsEk5TxgYGVjD4Uu7pZ",
+    "name": "espresSOL",
+    "symbol": "espresSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/espresSOL/espresSOL.png",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-16T17:15:23.590158Z",
+    "freeze_authority": null,
+    "mint_authority": "EzD116Ef44jnsiJonLN5BPYH8Hmt4paffh7w725MN31y",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-16T15:56:22Z",
+    "extensions": {}
+  },
+  {
+    "address": "pSYRpDqr847kB2nD5ZhjcPsHLV2ZpUxweXm1MwiSTcc",
+    "name": "risk-freestacc",
+    "symbol": "r-fstacc",
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/2DP8zMb.gif",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-26T20:04:48.429161Z",
+    "freeze_authority": null,
+    "mint_authority": "CA7yTjzt8JgkyamhoNveQZP9TMMZFcUyDabsYWBZipt6",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-16T15:52:39Z",
+    "extensions": {}
+  },
+  {
+    "address": "enderSozQQP3aFMyxkCrs59u283tu7ZowMPCdoM5io6",
+    "name": "enderSOL",
+    "symbol": "enderSOL",
+    "decimals": 9,
+    "logoURI": null,
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2024-12-26T20:04:49.814433Z",
+    "freeze_authority": null,
+    "mint_authority": "9v9PwBGVnPxMDTrJqEEd5gQc13tgmnDHybcqVDqoE7fm",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-11T16:59:31Z",
+    "extensions": {}
+  },
+  {
+    "address": "LUX8NDStbKJhzMuH7abY4va81YaubLw3Vto5rmb66Lw",
+    "name": "luxSOL",
+    "symbol": "luxSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/HWohT5kcg28hBLUnmUnkLaNcykyvWAH_boQKxd1L1-Q",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2025-01-07T16:55:46.654718Z",
+    "freeze_authority": null,
+    "mint_authority": "4R1L9q6sRopHKtQD1rpd7tBnUcu1jduXD3C6LfX3ViaV",
+    "permanent_delegate": null,
+    "minted_at": "2024-12-27T13:43:50Z",
+    "extensions": {}
+  },
+  {
+    "address": "vybe5DgwzGdvJMi4oH7TiQpubJd4QSDuGmbvWfACeb8",
+    "name": "Vybe Staked SOL",
+    "symbol": "vybeSOL",
+    "decimals": 9,
+    "logoURI": "https://static.vybenetwork.com/VybeSOL.svg",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2025-01-16T18:39:07.036479Z",
+    "freeze_authority": null,
+    "mint_authority": "5Bsdsw84hcDhCssMnNSUjWx3EqvfD3dV8AX2BGSRuMZa",
+    "permanent_delegate": null,
+    "minted_at": "2025-01-14T19:18:40Z",
+    "extensions": {}
+  },
+  {
+    "address": "axso1MBZ8Hz3RdBGeyDcvc3xP5R3YNfLYqREHRvwY2t",
+    "name": "AxSOL",
+    "symbol": "AXSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/y68v2ec_7NKHyXixvLgXYHZ5t893LkaQ30CsCEzwQ7Q",
+    "tags": [
+      "verified",
+      "lst"
+    ],
+    "daily_volume": null,
+    "created_at": "2025-01-23T20:37:23.969095Z",
+    "freeze_authority": null,
+    "mint_authority": "8jVc7KaXHHvKseAjoRd5JA7DGLEC5cFKwyJBiTK2Zttt",
+    "permanent_delegate": null,
+    "minted_at": "2025-01-22T07:09:36Z",
+    "extensions": {}
+  },
+  {
+    "address": "BADSoLWCBhpaSEEZYcFTn7mSLAstdNh5FvgMduapTdVT",
+    "name": "badSOL",
+    "symbol": "badSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/bandit-network/badSOL/main/badSOL.png",
+    "tags": [
+      "lst",
+      "verified"
+    ],
+    "daily_volume": null,
+    "created_at": "2025-01-23T20:37:24.229794Z",
+    "freeze_authority": null,
+    "mint_authority": "ERffxAHrYFw66yoZwGALDyUQ536vUH6jBrRGXXxWBev4",
+    "permanent_delegate": null,
+    "minted_at": "2025-01-12T16:57:31Z",
+    "extensions": {}
+  }
+]

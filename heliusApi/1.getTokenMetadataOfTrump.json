@@ -1,0 +1,41 @@
+[
+  {
+    "account": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "onChainAccountInfo": {
+      "accountInfo": {
+        "key": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "isSigner": false,
+        "isWritable": false,
+        "lamports": 1323029326945,
+        "data": {
+          "parsed": {
+            "info": {
+              "decimals": 6,
+              "freezeAuthority": "",
+              "isInitialized": true,
+              "mintAuthority": "",
+              "supply": "999999695708156"
+            },
+            "type": "mint"
+          },
+          "program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "space": 82
+        },
+        "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "executable": false,
+        "rentEpoch": 18446744073709552000
+      },
+      "error": ""
+    },
+    "onChainMetadata": {
+      "metadata": null,
+      "error": "UNKNOWN"
+    },
+    "offChainMetadata": {
+      "metadata": null,
+      "uri": "",
+      "error": ""
+    },
+    "legacyMetadata": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "getTokenInfo": {
+      "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+      "circulatingSupply": "1099999258.606156",
+      "cmcId": 34026,
+      "description": "ai16z is the first AI VC fund, fully managed by Marc AIndreessen with recommendations from members of the DAO.",
+      "id": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC:1399811149",
+      "imageBannerUrl": "https://token-media.defined.fi/1399811149_HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC_1737940662_banner.png",
+      "imageLargeUrl": "https://token-media.defined.fi/1399811149_HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC_1737940662_large.png",
+      "imageSmallUrl": "https://token-media.defined.fi/1399811149_HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC_1737940662_small.png",
+      "imageThumbUrl": "https://token-media.defined.fi/1399811149_HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC_1737940662_thumb.png",
+      "isScam": null,
+      "name": "ai16z",
+      "networkId": 1399811149,
+      "symbol": "ai16z",
+      "totalSupply": "1099999238.012887763"
+    }
+  }
+}

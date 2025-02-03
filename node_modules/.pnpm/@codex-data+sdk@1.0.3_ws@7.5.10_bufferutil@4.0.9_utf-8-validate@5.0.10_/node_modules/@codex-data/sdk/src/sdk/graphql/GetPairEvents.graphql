@@ -1,0 +1,71 @@
+query PairEvents($cursor: String, $limit: Int, $direction: RankingDirection, $query: EventsQueryInput!) {
+  pairEvents: getTokenEvents(
+    query: $query,
+    cursor: $cursor,
+    limit: $limit,
+    direction: $direction
+  ) {
+    cursor
+    items {
+      address
+      baseTokenPrice
+      blockHash
+      blockNumber
+      eventDisplayType
+      eventType
+      id
+      liquidityToken
+      maker
+      networkId
+      quoteToken
+      token0PoolValueUsd
+      token0SwapValueUsd
+      timestamp
+      token0ValueBase
+      token1PoolValueUsd
+      token1SwapValueUsd
+      token1ValueBase
+      transactionHash
+      transactionIndex
+      logIndex
+      data {
+        __typename
+        ... on BurnEventData {
+          amount0
+          amount1
+          amount0Shifted
+          amount1Shifted
+          type
+        }
+        ... on MintEventData {
+          amount0
+          amount1
+          amount0Shifted
+          amount1Shifted
+          type
+        }
+        ... on PoolBalanceChangedEventData {
+          amount0
+          amount1
+          amount0Shifted
+          amount1Shifted
+          type
+        }
+        ... on SwapEventData {
+          amount0In
+          amount0Out
+          amount1In
+          amount1Out
+          amount0
+          amount1
+          amountNonLiquidityToken
+          priceUsd
+          priceUsdTotal
+          priceBaseToken
+          priceBaseTokenTotal
+          type
+        }
+      }
+    }
+  }
+}
