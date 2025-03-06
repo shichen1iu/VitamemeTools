@@ -1,0 +1,72 @@
+{
+  "publicKey": "JDWYmyVmzU9Mnb8Vgve99xtEdY49JHE6u68e8JhQpump",
+  "mint": {
+    "publicKey": "JDWYmyVmzU9Mnb8Vgve99xtEdY49JHE6u68e8JhQpump",
+    "header": {
+      "executable": false,
+      "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "lamports": {
+        "basisPoints": "1461600",
+        "identifier": "SOL",
+        "decimals": 9
+      },
+      "rentEpoch": "18446744073709551616",
+      "exists": true
+    },
+    "mintAuthority": {
+      "__option": "None"
+    },
+    "supply": "995853864582016",
+    "decimals": 6,
+    "isInitialized": true,
+    "freezeAuthority": {
+      "__option": "None"
+    }
+  },
+  "metadata": {
+    "publicKey": "6E5vSdSLfsH1VTc6aRa8WdbUy4cx2aFASXeupEqKWaTC",
+    "header": {
+      "executable": false,
+      "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s",
+      "lamports": {
+        "basisPoints": "5115600",
+        "identifier": "SOL",
+        "decimals": 9
+      },
+      "rentEpoch": "18446744073709551616",
+      "exists": true
+    },
+    "key": 4,
+    "updateAuthority": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+    "mint": "JDWYmyVmzU9Mnb8Vgve99xtEdY49JHE6u68e8JhQpump",
+    "name": "Happy Chinese New Year",
+    "symbol": "SNAKE2025",
+    "uri": "https://ipfs.io/ipfs/QmVgN3kmwTKWmXZhQqMjS6UUYnddUBuTXTFyuyTGgvY35U",
+    "sellerFeeBasisPoints": 0,
+    "creators": {
+      "__option": "None"
+    },
+    "primarySaleHappened": false,
+    "isMutable": false,
+    "editionNonce": {
+      "__option": "Some",
+      "value": 255
+    },
+    "tokenStandard": {
+      "__option": "Some",
+      "value": 2
+    },
+    "collection": {
+      "__option": "None"
+    },
+    "uses": {
+      "__option": "None"
+    },
+    "collectionDetails": {
+      "__option": "None"
+    },
+    "programmableConfig": {
+      "__option": "None"
+    }
+  }
+}
